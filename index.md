@@ -1,15 +1,17 @@
 # Martí Mestieri's Research Page
 
 Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago.
+
 Assistant Professor in the Department of Economics at Northwestern University (on leave).
 
 
-Contact: marti dot mestieri at northwestern dot edu.
+### Contact
+marti dot mestieri at northwestern dot edu.
 
 ### Curriculum Vitae 
 (pdf)
 
-### Research Interests:
+### Research Interests
 Economic Growth and International Trade. 
                                                                                  
 
