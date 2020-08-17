@@ -30,7 +30,7 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 ## Publications
 
-1. [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0), with Diego Comin and Danial Lashkari, [online appendix](https://www.dropbox.com/s/k0n1wc79z3u10ck/CLM_onlineappendix_final.pdf?dl=0). [2018 draft version](https://www.dropbox.com/s/01hko5sszpyl34a/CLM_rev3.pdf?dl=0) (different notation). Accepted, Econometrica.
+1. [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0), with Diego Comin and Danial Lashkari, [online appendix](https://www.dropbox.com/s/k0n1wc79z3u10ck/CLM_onlineappendix_final.pdf?dl=0). [2018 draft version](https://www.dropbox.com/s/98e9tjnx3nhlhdd/CLM_rev2.pdf?dl=0) (different notation). Accepted, Econometrica.
 
 
 2. [The World Income Distribution: The Effects of International Unbundling of Production](https://www.dropbox.com/s/czqzvaqwtgmk5hs/BMU_rev.pdf?dl=0), with Sergi Basco, [online appendix](https://www.dropbox.com/s/sgwdn0qb2kwca8k/BMU_onlineappendix_rev.pdf?dl=0), [supplemental material](https://www.dropbox.com/s/teu5685tej9tt54/BMP3_additional_results_rev2.pdf?dl=0), [replication files](https://www.dropbox.com/s/94zy8f7iwh2yvvl/replication%20files%20bmp3.zip?dl=0).  Journal of Economic Growth, May 2019, 24(2), 189-221.
@@ -40,7 +40,7 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 4. [Human Capital Accumulation and Occupational Choice: Implications for Economic Development](https://www.dropbox.com/s/i9y5hhldhf8sf2z/MST_rev.pdf?dl=0), with Johanna Schauer and Robert Townsend, [online appendix](https://www.dropbox.com/s/7nmwugrvgbw5q3a/MST_rev_onlineappendix.pdf?dl=0), [replication files](https://www.dropbox.com/s/p3wkhbsmytj9rnx/MST_replication_files.zip?dl=0). Review of Economic Dynamics (special issue on Human Capital and Inequality), May 2017, vol. 25 (2017), pp. 151–186.
 
-5. [Mergers along the Global Supply Chain: Information Technologies and Routine Tasks](https://www.dropbox.com/s/9zb0f8drntg5zz0/BM_MandAR.pdf?dl=0), with Sergi Basco, media: [voxeu](http://www.voxeu.org/article/ict-and-global-supply-chains). [WP version](https://www.dropbox.com/s/dbevybjgig53owv/BM_MandA.pdf?dl=0). Oxford Bulletin of Economics and Statistics, April 2017. 
+5. [Mergers along the Global Supply Chain: Information Technologies and Routine Tasks](https://www.dropbox.com/s/dbevybjgig53owv/BM_MandA.pdf?dl=0), with Sergi Basco, media: [voxeu](http://www.voxeu.org/article/ict-and-global-supply-chains). [WP version](https://www.dropbox.com/s/9zb0f8drntg5zz0/BM_MandAR.pdf?dl=0). Oxford Bulletin of Economics and Statistics, April 2017. 
 
 6. [Technology Diffusion: Measurement, Causes and Consequences](https://www.dropbox.com/s/wb4t5a6jn2qkfdx/CM_chapter.pdf?dl=0), with Diego Comin, Handbook of Economic Growth, 2014, vol 2B, Ch. 2,  pp. 565–622.
 
