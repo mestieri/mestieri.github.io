@@ -12,7 +12,7 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 **Contact** marti dot mestieri at northwestern dot edu.
 
-**Curriculum Vitae** (pdf)
+**Curriculum Vitae** ([pdf](https://www.dropbox.com/s/ejjjvgctcd1txbx/mestieri_cv.pdf?dl=0))
 
 **Research Interests** Economic Growth and International Trade. 
                                                                                  
