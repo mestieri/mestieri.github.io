@@ -40,11 +40,11 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 4. [Human Capital Accumulation and Occupational Choice: Implications for Economic Development](https://www.dropbox.com/s/i9y5hhldhf8sf2z/MST_rev.pdf?dl=0), with Johanna Schauer and Robert Townsend, [online appendix](https://www.dropbox.com/s/7nmwugrvgbw5q3a/MST_rev_onlineappendix.pdf?dl=0), [replication files](https://www.dropbox.com/s/p3wkhbsmytj9rnx/MST_replication_files.zip?dl=0). Review of Economic Dynamics (special issue on Human Capital and Inequality), May 2017, vol. 25 (2017), pp. 151–186.
 
-5. Mergers along the Global Supply Chain: Information Technologies and Routine Tasks, with Sergi Basco, media: voxeu. WP version. Oxford Bulletin of Economics and Statistics, April 2017. 
+5. [Mergers along the Global Supply Chain: Information Technologies and Routine Tasks](https://www.dropbox.com/s/9zb0f8drntg5zz0/BM_MandAR.pdf?dl=0), with Sergi Basco, media: [voxeu](http://www.voxeu.org/article/ict-and-global-supply-chains). [WP version](https://www.dropbox.com/s/dbevybjgig53owv/BM_MandA.pdf?dl=0). Oxford Bulletin of Economics and Statistics, April 2017. 
 
-6. Technology Diffusion: Measurement, Causes and Consequences, with Diego Comin, Handbook of Economic Growth, 2014, vol 2B, Ch. 2,  pp. 565–622.
+6. [Technology Diffusion: Measurement, Causes and Consequences](https://www.dropbox.com/s/wb4t5a6jn2qkfdx/CM_chapter.pdf?dl=0), with Diego Comin, Handbook of Economic Growth, 2014, vol 2B, Ch. 2,  pp. 565–622.
 
-7. Heterogeneous Trade Costs and Wage Inequality: A Model of Two Globalizations, with Sergi Basco, Journal of International Economics, March 2013, vol. 89(2), pp. 393-406.
+7. [Heterogeneous Trade Costs and Wage Inequality: A Model of Two Globalizations](https://www.dropbox.com/s/ek1tnn8osqoolx3/BM2G.pdf?dl=0), with Sergi Basco, Journal of International Economics, March 2013, vol. 89(2), pp. 393-406.
 
 
 ## Work in Progress 
@@ -62,9 +62,9 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 ## Teaching Materials
 
-Northwestern PhD 460 sequence on Economic Growth and International Trade is on Canvas.
+Northwestern PhD 460 sequence on Economic Growth and International Trade is on [Canvas](https://canvas.northwestern.edu/).
 
-Guest Lecture on Structural Change and Nonhomothetic CES at U Chicago Ec 376
+[Guest Lecture on Structural Change and Nonhomothetic CES at U Chicago Ec 376](https://www.dropbox.com/s/desc962vwmcdbat/structural_change_lecture.pdf?dl=0)
 
-Sample Code to Estimate Nonhomothetic CES on Synthetic Data
+[Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
 
