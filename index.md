@@ -38,11 +38,30 @@ Technology Diffusion: Measurement, Causes and Consequences, with Diego Comin, Ha
 Heterogeneous Trade Costs and Wage Inequality: A Model of Two Globalizations, with Sergi Basco, Journal of International Economics, March 2013, vol. 89(2), pp. 393-406.
 
 
-
-
 ## Work in Progress
 
+Structural Change in Innovation, with Danial Lashkari and Diego Comin.
+
+What Goods do Countries Trade?, with Danial Lashkari.
+
+The Heterogeneous Effects of Trade across Occupations: A Simple Test of the Stolper-Samuelson Theorem, with Sergi Basco, Maxime Liegey and Gabriel Smagghue.
+
+The Stable Transformation Path, with Francisco Buera, Joseph Kaboski and Daniel O'Connor.
+
+Cities and Technology Cycles, with Enrico Berkes and Ruben Gaetani.
+
+Global Innovation and Productivity: Evidence from 100 years of World Patent Data, with Enrico Berkes and Kristina Manysheva.
+
+Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
+
+
 ## Teaching Materials
+
+Northwestern PhD 460 sequence on Economic Growth and International Trade is on Canvas.
+
+Guest Lecture on Structural Change and Nonhomothetic CES at U Chicago Ec 376
+
+Sample Code to Estimate Nonhomothetic CES on Synthetic Data
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
