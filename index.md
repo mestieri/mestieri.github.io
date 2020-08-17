@@ -5,14 +5,11 @@ Senior Economist in the Economic Research Department at the Federal Reserve Bank
 Assistant Professor in the Department of Economics at Northwestern University (on leave).
 
 
-### Contact
-marti dot mestieri at northwestern dot edu.
+**Contact** marti dot mestieri at northwestern dot edu.
 
-### Curriculum Vitae 
-(pdf)
+**Curriculum Vitae** (pdf)
 
-### Research Interests
-Economic Growth and International Trade. 
+**Research Interests** Economic Growth and International Trade. 
                                                                                  
 
 ## Working Papers
