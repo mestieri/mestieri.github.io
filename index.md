@@ -14,7 +14,7 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 **Curriculum Vitae** ([pdf](https://www.dropbox.com/s/ejjjvgctcd1txbx/mestieri_cv.pdf?dl=0))
 
-**Research Interests** Economic Growth and International Trade. 
+**Research Interests** Economic Growth, International Trade, Macroeconomic aspects of Economic Development. 
                                                                                  
 
 ## Working Papers
