@@ -16,7 +16,7 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 **Research Interests** Economic Growth, International Trade, Macroeconomic aspects of Economic Development. 
 
-[Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)   [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
+[Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)           [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
                                                                                  
 
 ## Working Papers
