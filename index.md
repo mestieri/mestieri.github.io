@@ -21,11 +21,17 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 ## Working Papers
 
-1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/tgqm3mdbo4jaqn0/cdm_june2020.pdf?dl=0), with Diego Comin and Ana Danieli, [online appendix](https://www.dropbox.com/s/t4wbqhdj2bylblr/cdm_onlineappendix.pdf?dl=0).
+1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/tgqm3mdbo4jaqn0/cdm_june2020.pdf?dl=0)   
+    with Diego Comin and Ana Danieli,
+    [online appendix](https://www.dropbox.com/s/t4wbqhdj2bylblr/cdm_onlineappendix.pdf?dl=0).
 
-2. [The Heterogeneous Effects of Trade across Occupations: A Test of the Stolper-Samuelson Theorem](https://www.dropbox.com/s/j7e4kx7bh4x9e6o/blms.pdf?dl=0), with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/s/i95n9ttgzyehahu/blms_onlineapp.pdf?dl=0).
+2. [The Heterogeneous Effects of Trade across Occupations: A Test of the Stolper-Samuelson Theorem](https://www.dropbox.com/s/j7e4kx7bh4x9e6o/blms.pdf?dl=0)
+    with Sergi Basco, Maxime Liegey and Gabriel Smagghue,
+    [online appendix](https://www.dropbox.com/s/i95n9ttgzyehahu/blms_onlineapp.pdf?dl=0).
 
-3. [The Stable Transformation Path](https://www.dropbox.com/s/szq64u8nqc85al1/bkmo.pdf?dl=0), with Francisco Buera, Joseph Kaboski and Daniel O'Connor, [online appendix](https://www.dropbox.com/s/ily9ntdwpskzrf2/bkmo_onlineapp.pdf?dl=0).
+3. [The Stable Transformation Path](https://www.dropbox.com/s/szq64u8nqc85al1/bkmo.pdf?dl=0)
+    with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
+    [online appendix](https://www.dropbox.com/s/ily9ntdwpskzrf2/bkmo_onlineapp.pdf?dl=0).
 
 4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
