@@ -21,8 +21,7 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 ## Working Papers
 
-1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/tgqm3mdbo4jaqn0/cdm_june2020.pdf?dl=0)   
-    with Diego Comin and Ana Danieli,
+1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/tgqm3mdbo4jaqn0/cdm_june2020.pdf?dl=0) with Diego Comin and Ana Danieli,
     [online appendix](https://www.dropbox.com/s/t4wbqhdj2bylblr/cdm_onlineappendix.pdf?dl=0).
 
 2. [The Heterogeneous Effects of Trade across Occupations: A Test of the Stolper-Samuelson Theorem](https://www.dropbox.com/s/j7e4kx7bh4x9e6o/blms.pdf?dl=0)
