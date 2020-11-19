@@ -39,7 +39,7 @@ Assistant Professor in the Department of Economics at Northwestern University (o
 
 1. [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0)
     with Diego Comin and Danial Lashkari, 
-    Accepted, Econometrica.
+   Econometrica (forthcoming).
     [online appendix](https://www.dropbox.com/s/k0n1wc79z3u10ck/CLM_onlineappendix_final.pdf?dl=0). [2018 draft version](https://www.dropbox.com/s/98e9tjnx3nhlhdd/CLM_rev2.pdf?dl=0) (different notation). 
 
 
