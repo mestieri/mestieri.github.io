@@ -10,7 +10,7 @@ Senior Economist in the Economic Research Department at the Federal Reserve Bank
 
 **Contact** mestieri dot marti at gmail dot com.
 
-**Curriculum Vitae** ([pdf](https://www.dropbox.com/s/ejjjvgctcd1txbx/mestieri_cv.pdf?dl=0))
+**Curriculum Vitae** ([pdf](https://www.dropbox.com/s/qyb7r51kot4k7fe/mestieri_cv.pdf?dl=0))
 
 **Research Interests** Economic Growth, International Trade, Macroeconomic aspects of Economic Development. 
 
