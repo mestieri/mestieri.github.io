@@ -22,9 +22,8 @@ Senior Economist in the Economic Research Department at the Federal Reserve Bank
 1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/tgqm3mdbo4jaqn0/cdm_june2020.pdf?dl=0) with Diego Comin and Ana Danieli,
     [online appendix](https://www.dropbox.com/s/t4wbqhdj2bylblr/cdm_onlineappendix.pdf?dl=0).
 
-2. [The Effect of Trade across Occupations: A Test of the Stolper-Samuelson Theorem](https://www.dropbox.com/s/zag3833c67qay5x/blms.pdf?dl=0)
-    with Sergi Basco, Maxime Liegey and Gabriel Smagghue,
-    [online appendix](https://www.dropbox.com/s/0uiqoho97r2mnix/blms_op.pdf?dl=0).
+2. [The Effect of Trade across Occupations](https://www.dropbox.com/s/2zlazd9ibbh9fkx/blms_online.pdf?dl=0) [online appendix](https://www.dropbox.com/s/fapaj3u9wpudlyk/blms_online_app.pdf?dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [old paper version](https://www.dropbox.com/s/zag3833c67qay5x/blms.pdf?dl=0)
+    [old online appendix](https://www.dropbox.com/s/0uiqoho97r2mnix/blms_op.pdf?dl=0).
 
 3. [The Stable Transformation Path](https://www.dropbox.com/s/szq64u8nqc85al1/bkmo.pdf?dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
