@@ -25,9 +25,9 @@ Senior Economist in the Economic Research Department at the Federal Reserve Bank
 2. [The Effect of Trade across Occupations](https://www.dropbox.com/s/2zlazd9ibbh9fkx/blms_online.pdf?dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/s/fapaj3u9wpudlyk/blms_online_app.pdf?dl=0), [old version](https://www.dropbox.com/s/zag3833c67qay5x/blms.pdf?dl=0),
     [old appendix](https://www.dropbox.com/s/0uiqoho97r2mnix/blms_op.pdf?dl=0).
 
-3. [The Stable Transformation Path](https://www.dropbox.com/s/szq64u8nqc85al1/bkmo.pdf?dl=0)
+3. [The Stable Transformation Path](https://www.dropbox.com/s/e12qq2esuhsroqe/bkmo.pdf?dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
-    [online appendix](https://www.dropbox.com/s/ily9ntdwpskzrf2/bkmo_onlineapp.pdf?dl=0).
+    [online appendix](https://www.dropbox.com/s/d5pu23yrut617xq/bkmo_onlineappendix.pdf?dl=0).
 
 4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
