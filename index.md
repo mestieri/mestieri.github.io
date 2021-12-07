@@ -19,17 +19,19 @@ Senior Economist in the Economic Research Department at the Federal Reserve Bank
 
 ## Working Papers
 
-1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/tgqm3mdbo4jaqn0/cdm_june2020.pdf?dl=0) with Diego Comin and Ana Danieli,
+1. [Cities and Technological Waves](https://www.dropbox.com/s/awva7ikgw9id44a/BGM.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, [online appendix](https://www.dropbox.com/s/tbea8yiks2fx6pn/BGM_onlineappendix.pdf?dl=0)
+
+2. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/tgqm3mdbo4jaqn0/cdm_june2020.pdf?dl=0) with Diego Comin and Ana Danieli,
     [online appendix](https://www.dropbox.com/s/t4wbqhdj2bylblr/cdm_onlineappendix.pdf?dl=0).
 
-2. [The Effect of Trade across Occupations](https://www.dropbox.com/s/2zlazd9ibbh9fkx/blms_online.pdf?dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/s/fapaj3u9wpudlyk/blms_online_app.pdf?dl=0), [old version](https://www.dropbox.com/s/zag3833c67qay5x/blms.pdf?dl=0),
+3. [The Effect of Trade across Occupations](https://www.dropbox.com/s/2zlazd9ibbh9fkx/blms_online.pdf?dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/s/fapaj3u9wpudlyk/blms_online_app.pdf?dl=0), [old version](https://www.dropbox.com/s/zag3833c67qay5x/blms.pdf?dl=0),
     [old appendix](https://www.dropbox.com/s/0uiqoho97r2mnix/blms_op.pdf?dl=0).
 
-3. [The Stable Transformation Path](https://www.dropbox.com/s/e12qq2esuhsroqe/bkmo.pdf?dl=0)
+4. [The Stable Transformation Path](https://www.dropbox.com/s/e12qq2esuhsroqe/bkmo.pdf?dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
     [online appendix](https://www.dropbox.com/s/d5pu23yrut617xq/bkmo_onlineappendix.pdf?dl=0).
 
-4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
+5. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
 
 ## Publications
