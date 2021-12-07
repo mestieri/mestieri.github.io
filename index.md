@@ -62,11 +62,9 @@ Senior Economist in the Economic Research Department at the Federal Reserve Bank
 
 2. What Goods do Countries Trade?, with Danial Lashkari.
 
-3. Cities and Technology Cycles, with Enrico Berkes and Ruben Gaetani.
+3. Global Innovation and Productivity: Evidence from 100 years of World Patent Data, with Enrico Berkes and Kristina Manysheva.
 
-4. Global Innovation and Productivity: Evidence from 100 years of World Patent Data, with Enrico Berkes and Kristina Manysheva.
-
-5. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
+4. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
 
 
 ## Teaching Materials
