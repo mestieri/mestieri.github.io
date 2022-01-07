@@ -21,7 +21,7 @@ Severo Ochoa Researcher at the Barcelona School of Economics, UPF Professor and 
 
 ## Working Papers
 
-1. [Cities and Technological Waves](https://www.dropbox.com/s/ucxup9hyh8ktz6g/BGM.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, [online appendix](https://www.dropbox.com/s/tbea8yiks2fx6pn/BGM_onlineappendix.pdf?dl=0)
+1. [Cities and Technological Waves](https://www.dropbox.com/s/ucxup9hyh8ktz6g/BGM.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, [online appendix](https://www.dropbox.com/s/tbea8yiks2fx6pn/BGM_onlineappendix.pdf?dl=0).
 
 2. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/tgqm3mdbo4jaqn0/cdm_june2020.pdf?dl=0) with Diego Comin and Ana Danieli,
     [online appendix](https://www.dropbox.com/s/t4wbqhdj2bylblr/cdm_onlineappendix.pdf?dl=0).
