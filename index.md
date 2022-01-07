@@ -7,7 +7,7 @@ title: Martí Mestieri's Research Page
 
 Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
 
-Severo Ochoa Researcher at the Barcelona School of Economics.
+Severo Ochoa Researcher at the Barcelona School of Economics, UPF Professor and CREi Associate Researcher.
 
 
 **Contact** mestieri dot marti at gmail dot com.
