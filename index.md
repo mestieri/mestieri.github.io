@@ -64,7 +64,7 @@ Severo Ochoa Researcher at the Barcelona School of Economics, UPF Professor and 
 
 2. What Goods do Countries Trade?, with Danial Lashkari.
 
-3. Global Innovation and Productivity: Evidence from 100 years of World Patent Data, with Enrico Berkes and Kristina Manysheva.
+3. Global Innovation and Productivity: Evidence from 100 years of World Patent Data, with Enrico Berkes and Kristina Manysheva. (Draft available upon request)
 
 4. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
 
