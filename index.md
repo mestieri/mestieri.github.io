@@ -27,7 +27,7 @@ Severo Ochoa Researcher at the Barcelona School of Economics, UPF Professor and 
     [online appendix](https://www.dropbox.com/s/t4wbqhdj2bylblr/cdm_onlineappendix.pdf?dl=0).
 
 3. [The Effect of Import Competition across Occupations](https://www.dropbox.com/s/2zlazd9ibbh9fkx/blms_online.pdf?dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/s/fapaj3u9wpudlyk/blms_online_app.pdf?dl=0), [old version](https://www.dropbox.com/s/zag3833c67qay5x/blms.pdf?dl=0),
-    [old appendix](https://www.dropbox.com/s/0uiqoho97r2mnix/blms_op.pdf?dl=0).
+    [old appendix](https://www.dropbox.com/s/0uiqoho97r2mnix/blms_op.pdf?dl=0). *Revise and Resubmit, Journal of International Economics*
 
 4. [The Stable Transformation Path](https://www.dropbox.com/s/ilzr8jgkkysp0yy/bkmo.pdf?dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
