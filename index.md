@@ -22,7 +22,7 @@ Severo Ochoa Researcher at the Barcelona School of Economics, UPF Professor and 
 ## Working Papers
 
 1. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/s/h49z8tmqrtbzchr/bmm_website.pdf?dl=0) with Enrico Berkes and Kristina Manysheva. 
-        Fields of Knowledge Classification (https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0)
+        [Fields of Knowledge Classification](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0)
 
 2. [Cities and Technological Waves](https://www.dropbox.com/s/ucxup9hyh8ktz6g/BGM.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, [online appendix](https://www.dropbox.com/s/tbea8yiks2fx6pn/BGM_onlineappendix.pdf?dl=0).
 
