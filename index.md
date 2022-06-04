@@ -31,9 +31,9 @@ Severo Ochoa Researcher at the Barcelona School of Economics, UPF Professor and 
 4. [The Effect of Import Competition across Occupations](https://www.dropbox.com/s/2zlazd9ibbh9fkx/blms_online.pdf?dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/s/p1mlzp6mhq5i6tj/blms_onlineapp.pdf?dl=0), [old version](https://www.dropbox.com/s/zag3833c67qay5x/blms.pdf?dl=0),
     [old appendix](https://www.dropbox.com/s/0uiqoho97r2mnix/blms_op.pdf?dl=0). *Revise and Resubmit, Journal of International Economics*
 
-5. [The Stable Transformation Path](https://www.dropbox.com/s/ilzr8jgkkysp0yy/bkmo.pdf?dl=0)
+5. [The Stable Transformation Path](https://www.dropbox.com/s/qr244nsqarcmz4h/bkmo.pdf?dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
-    [online appendix](https://www.dropbox.com/s/i5khm7i38pnk2u6/bkmo_onlineapp.pdf?dl=0).
+    [online appendix](https://www.dropbox.com/s/z0ufhkrma81umg2/bkmo_oa.pdf?dl=0).
 
 6. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
