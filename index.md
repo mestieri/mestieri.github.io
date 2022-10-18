@@ -42,7 +42,7 @@ UPF Professor and CREi Associate Researcher.
 1. [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0)
     with Diego Comin and Danial Lashkari, 
    *Econometrica*, January 2021, vol. 89(1), p. 311-374.
-    [Online appendix](https://www.dropbox.com/s/k0n1wc79z3u10ck/CLM_onlineappendix_final.pdf?dl=0). [2018 draft version](https://www.dropbox.com/s/98e9tjnx3nhlhdd/CLM_rev2.pdf?dl=0) (different notation). [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
+    [Online appendix](https://www.dropbox.com/s/k0n1wc79z3u10ck/CLM_onlineappendix_final.pdf?dl=0). [2018 draft version](https://www.dropbox.com/s/98e9tjnx3nhlhdd/CLM_rev2.pdf?dl=0) (lighter theory with different notation). [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
 
 
 2. [The World Income Distribution: The Effects of International Unbundling of Production](https://www.dropbox.com/s/czqzvaqwtgmk5hs/BMU_rev.pdf?dl=0), with Sergi Basco, [online appendix](https://www.dropbox.com/s/sgwdn0qb2kwca8k/BMU_onlineappendix_rev.pdf?dl=0), [supplemental material](https://www.dropbox.com/s/teu5685tej9tt54/BMP3_additional_results_rev2.pdf?dl=0), [replication files](https://www.dropbox.com/s/94zy8f7iwh2yvvl/replication%20files%20bmp3.zip?dl=0). *Journal of Economic Growth*, May 2019, 24(2), 189-221.
