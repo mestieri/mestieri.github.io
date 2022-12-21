@@ -5,11 +5,10 @@ title: Martí Mestieri's Research Page
 
 # Martí Mestieri's Research Page
 
-Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
+<!--Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
 
 UPF Associate Professor and CREi Associate Researcher.
-
-
+-->
 **Contact** mestieri dot marti at gmail dot com.
 
 **Curriculum Vitae** ([pdf](https://www.dropbox.com/s/bwft6v5pea10cpo/mestieri_cv.pdf?dl=0))
