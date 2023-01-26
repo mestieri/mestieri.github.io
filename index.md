@@ -46,6 +46,7 @@ UPF Associate Professor and CREi Associate Researcher.
    *Econometrica*, January 2021, vol. 89(1), p. 311-374.
     [Online appendix](https://www.dropbox.com/s/k0n1wc79z3u10ck/CLM_onlineappendix_final.pdf?dl=0). [2018 draft version](https://www.dropbox.com/s/98e9tjnx3nhlhdd/CLM_rev2.pdf?dl=0) (lighter theory with different notation). [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
 
+[Step-by-step derivations for Nonhomothetic CES](https://www.dropbox.com/s/b5r76pev48xo6is/nhcesstepbystep.pdf?dl=0)
 
 2. [The World Income Distribution: The Effects of International Unbundling of Production](https://www.dropbox.com/s/czqzvaqwtgmk5hs/BMU_rev.pdf?dl=0), with Sergi Basco, [online appendix](https://www.dropbox.com/s/sgwdn0qb2kwca8k/BMU_onlineappendix_rev.pdf?dl=0), [supplemental material](https://www.dropbox.com/s/teu5685tej9tt54/BMP3_additional_results_rev2.pdf?dl=0), [replication files](https://www.dropbox.com/s/94zy8f7iwh2yvvl/replication%20files%20bmp3.zip?dl=0). *Journal of Economic Growth*, May 2019, 24(2), 189-221.
        [Extension Studying Unbundling and Within Country Inequality](https://www.dropbox.com/s/83ty9lv2lem87y1/BM_Trade_and_within_inequality.pdf?dl=0) (SSRN WP).
@@ -71,6 +72,8 @@ UPF Associate Professor and CREi Associate Researcher.
 
 
 ## Teaching Materials
+
+[Step-by-step derivations for Nonhomothetic CES](https://www.dropbox.com/s/b5r76pev48xo6is/nhcesstepbystep.pdf?dl=0)
 
 Northwestern PhD 460 sequence on Economic Growth and International Trade is on [Canvas](https://canvas.northwestern.edu/).
 
