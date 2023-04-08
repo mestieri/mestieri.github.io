@@ -21,13 +21,15 @@ UPF Associate Professor and CREi Associate Researcher.
 
 ## Working Papers
 
-1. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/s/h49z8tmqrtbzchr/bmm_website.pdf?dl=0) with Enrico Berkes and Kristina Manysheva, [online Appendix](https://www.dropbox.com/s/p0857cfab9i9jjs/bmm_oa_website.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0)
+1. [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0) with Clement Bohr and Frédéric Robert-Nicoud.
  
-2. [The Stable Transformation Path](https://www.dropbox.com/s/qr244nsqarcmz4h/bkmo.pdf?dl=0)
+2. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/s/h49z8tmqrtbzchr/bmm_website.pdf?dl=0) with Enrico Berkes and Kristina Manysheva, [online Appendix](https://www.dropbox.com/s/p0857cfab9i9jjs/bmm_oa_website.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0)
+ 
+3. [The Stable Transformation Path](https://www.dropbox.com/s/qr244nsqarcmz4h/bkmo.pdf?dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
     [online appendix](https://www.dropbox.com/s/z0ufhkrma81umg2/bkmo_oa.pdf?dl=0).
 
-3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
+4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
 
 ## Submitted Papers or Under Revision
