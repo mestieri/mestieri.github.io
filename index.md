@@ -21,7 +21,7 @@ UPF Associate Professor and CREi Associate Researcher.
 
 ## Working Papers
 
-1. [Heterothetic Cobb-Douglas: Theory and Applications (2023)](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0) with Clement Bohr and Frédéric Robert-Nicoud.
+1. [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0) with Clement Bohr and Frédéric Robert-Nicoud.
 
 2. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/s/izq34c7zig3b0qe/BFMM_Economic_Crises_and_the_Global_Supply_Chain.pdf?dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede.
  
