@@ -9,7 +9,7 @@ title: Martí Mestieri's Research Page
 
 UPF Associate Professor and CREi Associate Researcher.
 
-**Curriculum Vitae** ([pdf](https://www.dropbox.com/s/bwft6v5pea10cpo/mestieri_cv.pdf?dl=0))
+**Curriculum Vitae** ([pdf](https://www.dropbox.com/s/q1ax1vnrav3rwcm/mestieri_cv_may2023.pdf?dl=0))
 -->
 
 **Contact** mestieri dot marti at gmail dot com.
