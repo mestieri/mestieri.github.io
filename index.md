@@ -35,14 +35,14 @@ UPF Associate Professor and CREi Associate Researcher.
 
 ## Submitted Papers or Under Revision
 
-1. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/s/izq34c7zig3b0qe/BFMM_Economic_Crises_and_the_Global_Supply_Chain.pdf?dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede.
+1. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/s/izq34c7zig3b0qe/BFMM_Economic_Crises_and_the_Global_Supply_Chain.pdf?dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede. Submitted.
  
-2. [The Effect of Import Competition across Occupations](https://www.dropbox.com/s/fb0pr0rfwq98plt/blms_rev.pdf?dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue. 
+2. [The Effect of Import Competition across Occupations](https://www.dropbox.com/s/fb0pr0rfwq98plt/blms_rev.pdf?dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue. Revise and Resubmit, Journal of International Economics.
 
 3. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0) with Diego Comin and Ana Danieli,
-    [online appendix](https://www.dropbox.com/s/cu2hv6z8u9633rb/cdm_oa.pdf?dl=0).
+    [online appendix](https://www.dropbox.com/s/cu2hv6z8u9633rb/cdm_oa.pdf?dl=0). Revise and Resubmit, Review of Economic Studies.
     
-4. [Technological Waves and Local Growth](https://www.dropbox.com/s/qintoez1t9pvpva/bgm_jan2023.pdf?dl=0) with Enrico Berkes and Ruben Gaetani.
+4. [Technological Waves and Local Growth](https://www.dropbox.com/s/qintoez1t9pvpva/bgm_jan2023.pdf?dl=0) with Enrico Berkes and Ruben Gaetani. Submitted.
 
 
 ## Publications
