@@ -13,7 +13,7 @@ UPF Associate Professor and CREi Associate Researcher.
 
 **Contact** mestieri dot marti at gmail dot com.
 
-**Research Interests** Economic Growth, Macroeconomic Aspects of Economic Development, International Trade.
+**Research Interests** Economic Growth, International Trade, and Macroeconomic Aspects of Economic Development,.
 
 **Curriculum Vitae** ([pdf](https://www.dropbox.com/s/q1ax1vnrav3rwcm/mestieri_cv_may2023.pdf?dl=0))
 
