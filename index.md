@@ -31,12 +31,15 @@ UPF Associate Professor and CREi Associate Researcher.
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
     [online appendix](https://www.dropbox.com/s/z0ufhkrma81umg2/bkmo_oa.pdf?dl=0).
 
-  <!--  ![ Stable Transformation Path Connecting Two BGPs](straptwitter.gif) --!>
-<!-- <p align="center">
- <img src="https://github.com/mestieri/mestieri.github.io/blob/master/straptwitter.gif" width=33% height=33%>
-    </p> 
+    <!--
+        ![ Stable Transformation Path Connecting Two BGPs](straptwitter.gif)
     --!>
-4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
+    <!--
+      <p align="center">
+     <img src="https://github.com/mestieri/mestieri.github.io/blob/master/straptwitter.gif" width=33% height=33%>
+      </p> 
+    --!>
+5. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
 
 ## Submitted Papers or Under Revision
