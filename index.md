@@ -32,9 +32,6 @@ UPF Associate Professor and CREi Associate Researcher.
     [online appendix](https://www.dropbox.com/s/z0ufhkrma81umg2/bkmo_oa.pdf?dl=0).
 
     <!--
-        ![ Stable Transformation Path Connecting Two BGPs](straptwitter.gif)
-    --!>
-    <!--
       <p align="center">
      <img src="https://github.com/mestieri/mestieri.github.io/blob/master/straptwitter.gif" width=33% height=33%>
       </p> 
