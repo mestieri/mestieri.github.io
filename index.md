@@ -35,8 +35,6 @@ UPF Associate Professor and CREi Associate Researcher.
 <!--  <p align="center">
  <img src="https://github.com/mestieri/mestieri.github.io/blob/master/straptwitter.gif" width=33% height=33%>
     </p> --!>
- 
-
 4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
 
