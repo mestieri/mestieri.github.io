@@ -44,9 +44,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
     
 4. [Technological Waves and Local Growth](https://www.dropbox.com/s/vswbcd98s6333tu/bgm_june23.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: June 2023. *Submitted*.
 
-5. [The Stable Transformation Path](https://www.dropbox.com/s/qr244nsqarcmz4h/bkmo.pdf?dl=0)
+5. [The Stable Transformation Path](https://www.dropbox.com/scl/fi/j3xps3b5hrbdf7aoogorv/bkmo.pdf?rlkey=gbe1j4hjbel18h26shu973g9x&dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
-    [online appendix](https://www.dropbox.com/s/z0ufhkrma81umg2/bkmo_oa.pdf?dl=0). 
+    [online appendix](https://www.dropbox.com/scl/fi/1bwbztx2e2ct86z655r4a/bkmo_oa.pdf?rlkey=zt703kblik2k6ud1amp0bskdf&dl=0). 
 
 
 ## Publications
