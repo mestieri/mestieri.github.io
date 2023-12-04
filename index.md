@@ -42,7 +42,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 3. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0) with Diego Comin and Ana Danieli,
     [online appendix](https://www.dropbox.com/s/cu2hv6z8u9633rb/cdm_oa.pdf?dl=0), first version: July 2020, last update: Nov. 2022. *Revise and Resubmit, Review of Economic Studies*.
     
-4. [Technological Waves and Local Growth](https://www.dropbox.com/s/vswbcd98s6333tu/bgm_june23.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: June 2023. 
+4. [Technological Waves and Local Growth](https://www.dropbox.com/s/vswbcd98s6333tu/bgm_june23.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: June 2023. *Revise and Resubmit, JPE: Macro*.
 
 5. [The Stable Transformation Path](https://www.dropbox.com/scl/fi/j3xps3b5hrbdf7aoogorv/bkmo.pdf?rlkey=gbe1j4hjbel18h26shu973g9x&dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
