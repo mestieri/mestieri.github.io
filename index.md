@@ -4,14 +4,14 @@ title: Martí Mestieri's Research Page
 ---
 <style>
 blue {
-  color: #AEBC21;
+  color: #B47846;
    
 }
 
 </style>
 
 # Martí Mestieri's Research Page
- <!-- #BFA887; -->
+ <!-- #BFA887;  #AEBC21-->
 <!--Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
 
 UPF Associate Professor and CREi Associate Researcher.
