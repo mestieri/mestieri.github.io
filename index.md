@@ -2,6 +2,21 @@
 layout: default
 title: Martí Mestieri's Research Page
 ---
+<style>
+blue {
+  color: lightblue;
+}
+
+red {
+  color: red;
+}
+
+green {
+  color: lightgreen;
+}
+</style>
+
+A <blue>very</blue> long <red>sentence</red>.
 
 # Martí Mestieri's Research Page
 
