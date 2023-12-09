@@ -4,7 +4,7 @@ title: Martí Mestieri's Research Page
 ---
 <style>
 blue {
-  color: Chocolate;
+  color: AEBC21;
    
 }
 
