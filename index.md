@@ -7,16 +7,12 @@ blue {
   color: lightblue;
 }
 
-red {
-  color: red;
-}
-
 green {
   color: lightgreen;
 }
 </style>
 
-A <blue>very</blue> long <red>sentence</red>.
+A <blue>very</blue> long <green>sentence</green>.
 
 # Martí Mestieri's Research Page
 
