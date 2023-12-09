@@ -7,12 +7,7 @@ blue {
   color: lightblue;
 }
 
-green {
-  color: lightgreen;
-}
 </style>
-
-A <blue>very</blue> long <green>sentence</green>.
 
 # Martí Mestieri's Research Page
 
@@ -46,7 +41,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 ## Submitted Papers or Under Revision
 
-1. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/s/izq34c7zig3b0qe/BFMM_Economic_Crises_and_the_Global_Supply_Chain.pdf?dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023. *Revise and Resubmit, Journal of International Economics*.
+1. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/s/izq34c7zig3b0qe/BFMM_Economic_Crises_and_the_Global_Supply_Chain.pdf?dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023. *Revise and Resubmit, <blue>Journal of International Economics</blue>*.
 
 2. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *Revise and Resubmit, Journal of International Economics*.
 
