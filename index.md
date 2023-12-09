@@ -37,7 +37,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 1. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/s/izq34c7zig3b0qe/BFMM_Economic_Crises_and_the_Global_Supply_Chain.pdf?dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023. *Revise and Resubmit, Journal of International Economics*.
  
-2. [The Effect of Import Competition across Occupations](https://www.dropbox.com/s/fb0pr0rfwq98plt/blms_rev.pdf?dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, first version: July 2021, last update: Oct. 2022. *Revise and Resubmit, Journal of International Economics*.
+2. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *Revise and Resubmit, Journal of International Economics*.
 
 3. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0) with Diego Comin and Ana Danieli,
     [online appendix](https://www.dropbox.com/s/cu2hv6z8u9633rb/cdm_oa.pdf?dl=0), first version: July 2020, last update: Nov. 2022. *Revise and Resubmit, Review of Economic Studies*.
