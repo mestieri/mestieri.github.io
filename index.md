@@ -11,11 +11,9 @@ blue {
 </style>
 
 # Martí Mestieri's Research Page
- <!-- #BFA887;  #AEBC21-->
-<!--Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
-
+ <!-- #BFA887;  #AEBC21;
+Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
 UPF Associate Professor and CREi Associate Researcher.
-
 -->
 **Contact** mestieri dot marti at gmail dot com.
 
