@@ -42,21 +42,21 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 1. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/s/izq34c7zig3b0qe/BFMM_Economic_Crises_and_the_Global_Supply_Chain.pdf?dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023. *Revise and Resubmit, <blue>Journal of International Economics</blue>*.
 
-2. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *Revise and Resubmit,<blue> Journal of International Economics</blue>*.
-
-3. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0) with Diego Comin and Ana Danieli,
+2. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0) with Diego Comin and Ana Danieli,
     [online appendix](https://www.dropbox.com/s/cu2hv6z8u9633rb/cdm_oa.pdf?dl=0), first version: July 2020, last update: Nov. 2022. *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
     
-4. [Technological Waves and Local Growth](https://www.dropbox.com/s/vswbcd98s6333tu/bgm_june23.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: June 2023. *Revise and Resubmit,<blue> JPE: Macro</blue>*.
+3. [Technological Waves and Local Growth](https://www.dropbox.com/s/vswbcd98s6333tu/bgm_june23.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: June 2023. *Revise and Resubmit,<blue> JPE: Macro</blue>*.
 
-5. [The Stable Transformation Path](https://www.dropbox.com/scl/fi/j3xps3b5hrbdf7aoogorv/bkmo.pdf?rlkey=gbe1j4hjbel18h26shu973g9x&dl=0)
+4. [The Stable Transformation Path](https://www.dropbox.com/scl/fi/j3xps3b5hrbdf7aoogorv/bkmo.pdf?rlkey=gbe1j4hjbel18h26shu973g9x&dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
     [online appendix](https://www.dropbox.com/scl/fi/1bwbztx2e2ct86z655r4a/bkmo_oa.pdf?rlkey=zt703kblik2k6ud1amp0bskdf&dl=0). 
 
 
 ## Publications
 
-1. [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0)
+1. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *Accepted for publication,<blue> Journal of International Economics</blue>*.
+
+2.  [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0)
     with Diego Comin and Danial Lashkari, 
    *<blue>Econometrica</blue>*, January 2021, vol. 89(1), p. 311-374.
     [Online appendix](https://www.dropbox.com/s/k0n1wc79z3u10ck/CLM_onlineappendix_final.pdf?dl=0). [2018 draft version](https://www.dropbox.com/s/98e9tjnx3nhlhdd/CLM_rev2.pdf?dl=0) (lighter theory with different notation). Awarded a Wiley Certificate of Achievement for being among the 2021-2022 top cited and downloaded articles in Econometrica.
@@ -98,5 +98,5 @@ Northwestern PhD 460 sequence on Economic Growth and International Trade is on [
 
 [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
 
-[Lecture 1 PhD Class](https://www.dropbox.com/scl/fi/moy8z8agw2cams1lgv1eh/lecture1.pdf?rlkey=nxuj6bmzfh85t93ri7s0r4xrb&dl=0)
+[Lecture 1 UPF PhD Class](https://www.dropbox.com/scl/fi/moy8z8agw2cams1lgv1eh/lecture1.pdf?rlkey=nxuj6bmzfh85t93ri7s0r4xrb&dl=0)
 
