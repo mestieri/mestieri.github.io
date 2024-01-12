@@ -98,5 +98,6 @@ Northwestern PhD 460 sequence on Economic Growth and International Trade is on [
 
 [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
 
-[Lecture 1 UPF PhD Class](https://www.dropbox.com/scl/fi/moy8z8agw2cams1lgv1eh/lecture1.pdf?rlkey=nxuj6bmzfh85t93ri7s0r4xrb&dl=0)
+<!--[Lecture 1 UPF PhD Class](https://www.dropbox.com/scl/fi/moy8z8agw2cams1lgv1eh/lecture1.pdf?rlkey=nxuj6bmzfh85t93ri7s0r4xrb&dl=0)
+--!>
 
