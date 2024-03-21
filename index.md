@@ -33,7 +33,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 2. [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0) with Clement Bohr and Frédéric Robert-Nicoud.
 
-3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/s/h49z8tmqrtbzchr/bmm_website.pdf?dl=0) with Enrico Berkes and Kristina Manysheva, [online Appendix](https://www.dropbox.com/s/p0857cfab9i9jjs/bmm_oa_website.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0).
+3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/s/h49z8tmqrtbzchr/bmm_website.pdf?dl=0) with Enrico Berkes and Kristina Manysheva, [online Appendix](https://www.dropbox.com/s/p0857cfab9i9jjs/bmm_oa_website.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
 
 4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
