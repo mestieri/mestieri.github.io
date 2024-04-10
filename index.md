@@ -52,7 +52,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 ## Publications
 
-1. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/s/izq34c7zig3b0qe/BFMM_Economic_Crises_and_the_Global_Supply_Chain.pdf?dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023. *Conditionally accepted, <blue>Journal of International Economics</blue>*.
+1. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023. *Conditionally accepted, <blue>Journal of International Economics</blue>*.
    
 2. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *Accepted for publication,<blue> Journal of International Economics</blue>*.
 
