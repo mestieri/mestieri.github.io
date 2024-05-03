@@ -92,12 +92,8 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 [Step-by-step derivations for Nonhomothetic CES](https://www.dropbox.com/s/b5r76pev48xo6is/nhcesstepbystep.pdf?dl=0)
 
-Northwestern PhD 460 sequence on Economic Growth and International Trade is on [Canvas](https://canvas.northwestern.edu/)
-
 [Guest Lecture on Structural Change and Nonhomothetic CES at U Chicago Ec 376](https://www.dropbox.com/s/desc962vwmcdbat/structural_change_lecture.pdf?dl=0)
 
 [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
 
-<!--[Lecture 1 UPF PhD Class](https://www.dropbox.com/scl/fi/moy8z8agw2cams1lgv1eh/lecture1.pdf?rlkey=nxuj6bmzfh85t93ri7s0r4xrb&dl=0)
---!>
 
