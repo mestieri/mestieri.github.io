@@ -33,9 +33,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 2. [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0) with Clement Bohr and Frédéric Robert-Nicoud.
 
-3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/s/h49z8tmqrtbzchr/bmm_website.pdf?dl=0) with Enrico Berkes and Kristina Manysheva, [online Appendix](https://www.dropbox.com/s/p0857cfab9i9jjs/bmm_oa_website.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
-
-4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
+3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
 
 ## Submitted Papers or Under Revision
@@ -43,11 +41,14 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0) with Diego Comin and Ana Danieli,
     [online appendix](https://www.dropbox.com/s/cu2hv6z8u9633rb/cdm_oa.pdf?dl=0), first version: July 2020, last update: Nov. 2022. *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
     
-2. [Technological Waves and Local Growth](https://www.dropbox.com/s/vswbcd98s6333tu/bgm_june23.pdf?dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: June 2023. *Revise and Resubmit,<blue> JPE: Macro</blue>*.
+2. [Technological Waves and Local Growth](https://www.dropbox.com/scl/fi/qsgw0pexz4ed5xc43wn23/bgm.pdf?rlkey=mltxyzm9r7sgjyu41iue697jx&dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: June 2024. *Revise and Resubmit,<blue> JPE: Macro</blue>*.
 
 3. [The Stable Transformation Path](https://www.dropbox.com/scl/fi/j3xps3b5hrbdf7aoogorv/bkmo.pdf?rlkey=gbe1j4hjbel18h26shu973g9x&dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
-    [online appendix](https://www.dropbox.com/scl/fi/1bwbztx2e2ct86z655r4a/bkmo_oa.pdf?rlkey=zt703kblik2k6ud1amp0bskdf&dl=0). 
+    [online appendix](https://www.dropbox.com/scl/fi/1bwbztx2e2ct86z655r4a/bkmo_oa.pdf?rlkey=zt703kblik2k6ud1amp0bskdf&dl=0).
+
+4. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
+
 
 
 ## Publications
