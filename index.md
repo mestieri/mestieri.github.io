@@ -41,21 +41,22 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0) with Diego Comin and Ana Danieli,
     [online appendix](https://www.dropbox.com/s/cu2hv6z8u9633rb/cdm_oa.pdf?dl=0), first version: July 2020, last update: Nov. 2022. *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
     
-2. [Technological Waves and Local Growth](https://www.dropbox.com/scl/fi/nvm16n9cswrr6fea1rhqs/bgm_June2024.pdf?rlkey=6wevz59zdw05ovh7782iqh61d&raw=1) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: June 2024. *Revise and Resubmit,<blue> JPE: Macro</blue>*.
 
-3. [The Stable Transformation Path](https://www.dropbox.com/scl/fi/42sxsm4ahgxeh9wgcwx8x/bkmo_july24.pdf?rlkey=3p22096kggjzi6zg2mopvgoj6&dl=0)
+2. [The Stable Transformation Path](https://www.dropbox.com/scl/fi/42sxsm4ahgxeh9wgcwx8x/bkmo_july24.pdf?rlkey=3p22096kggjzi6zg2mopvgoj6&dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
     [online appendix](https://www.dropbox.com/scl/fi/g9fxctt7edatpbjxvptm4/bkmo_oa_july24.pdf?rlkey=re54p78yaiczlqq1ilzq8teu4&dl=0).
 
-4. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
+3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
 
 
 
 ## Publications
 
+10. [Technological Waves, Knowledge Diffusion, and Local Growth](﻿﻿https://www.dropbox.com/scl/fi/jzjsn0dxzx366wj47qd4d/bgm.pdf?rlkey=ac1wvsimj4y7jpmccbkpse3bf&dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: Sept. 2024. *Accepted for publication, <blue>JPE: Macro</blue>*.
+  
 9. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023. *Forthcoming, <blue>Journal of International Economics</blue>*.
    
-8. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *Accepted for publication,<blue> Journal of International Economics</blue>*.
+8. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *Forthcoming, <blue> Journal of International Economics</blue>*.
 
 7.  [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0)
     with Diego Comin and Danial Lashkari, 
