@@ -15,12 +15,14 @@ blue {
 Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
 UPF Associate Professor and CREi Associate Researcher.
 -->
+Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
+
 **Contact** mestieri dot marti at gmail dot com.
 
 **Research Interests** Economic Growth, International Trade, and Macroeconomic Aspects of Economic Development.
 
-**CV** Available upon request
-<!--**Curriculum Vitae** ([pdf](https://www.dropbox.com/s/q1ax1vnrav3rwcm/mestieri_cv_may2023.pdf?dl=0)) 
+**Curriculum Vitae** [[pdf](https://www.dropbox.com/scl/fi/49hvhu9yg5jm4z4eyeygy/mestieri_cv_sept24.pdf?rlkey=8h1g1ptjgbl00i7v8bq3mrh5e&dl=0)]
+<!--**CV** Available upon request
 -->
 
 [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)           [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
