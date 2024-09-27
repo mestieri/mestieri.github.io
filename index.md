@@ -17,6 +17,7 @@ UPF Associate Professor and CREi Associate Researcher.
 -->
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
 
+**Contact** marti.mestieri@iae.csic.es
 <!--
 **Contact** marti.mestieri mestieri dot marti at gmail dot com.
 -->
