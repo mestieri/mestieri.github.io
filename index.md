@@ -93,6 +93,10 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
 
+4. Jobless Industrialization, with Laura Alfaro, Marcela Eslava and Felipe Saenz.
+
+   
+
 
 ## Teaching Materials
 
