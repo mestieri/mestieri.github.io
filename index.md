@@ -39,6 +39,10 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
+4. [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0) Sergi Basco, Maxime Liegey and Gabriel Smagghue.
+
+5. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/2gwulxxtmb1gbibm4lfae/gms.pdf?rlkey=fajrqes3isosboyxke0fikeog&dl=0) with Ruben Gaetani and Gustavo de Souza.
+
 
 ## Submitted Papers or Under Revision
 
