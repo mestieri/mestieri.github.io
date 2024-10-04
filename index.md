@@ -28,8 +28,9 @@ Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
 -->
 
 [CV](https://www.dropbox.com/scl/fi/49hvhu9yg5jm4z4eyeygy/mestieri_cv_sept24.pdf?rlkey=8h1g1ptjgbl00i7v8bq3mrh5e&dl=0)&nbsp; &nbsp; &nbsp;   [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca) &nbsp; &nbsp; &nbsp;  [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
-                                                                                 
 
+[YingHua He Memorial Fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
+                                                                                 
 ## Working Papers
 
 1. [Aggregation and Closed-Form Results
