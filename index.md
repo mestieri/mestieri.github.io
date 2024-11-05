@@ -34,9 +34,9 @@ Contribute to **[YingHua He memorial fund for graduate fellowships](https://rice
 ## Working Papers
 
 1. [Aggregation and Closed-Form Results
-for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wyeh64fc9f/BMY_closedform.pdf?rlkey=inrafvfuv22xz0z58pgb9oeqy&dl=0) with Clement Bohr and Emre Enes Yavuz.
+for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wyeh64fc9f/BMY_closedform.pdf?rlkey=inrafvfuv22xz0z58pgb9oeqy&dl=0) with Clement Bohr and Emre Enes Yavuz,[CEPR WP](https://cepr.org/publications/dp18606).
 
-2. [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0) with Clement Bohr and Frédéric Robert-Nicoud.
+2. [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0) with Clement Bohr and Frédéric Robert-Nicoud, [CEPR WP](https://cepr.org/publications/dp18077).
 
 3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
