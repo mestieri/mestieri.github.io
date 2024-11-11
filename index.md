@@ -44,6 +44,8 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 5. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/2gwulxxtmb1gbibm4lfae/gms.pdf?rlkey=fajrqes3isosboyxke0fikeog&dl=0) with Ruben Gaetani and Gustavo de Souza.
 
+6. [Quarterly Industry-Level Labor Productivity Data for the U.S.](https://www.dropbox.com/scl/fi/gcxep9beveqbb5ob52nnx/Productivity_EP.pdf?rlkey=o5vjpc8s941lq727tf6nazi27&dl=0) with Bart Hobijn, Nicolas Werquin and Jing Zhang.
+
 
 ## Submitted Papers or Under Revision
 
