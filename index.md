@@ -29,7 +29,7 @@ Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
 
 [CV](https://www.dropbox.com/scl/fi/49hvhu9yg5jm4z4eyeygy/mestieri_cv_sept24.pdf?rlkey=8h1g1ptjgbl00i7v8bq3mrh5e&dl=0)&nbsp; &nbsp; &nbsp;   [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca) &nbsp; &nbsp; &nbsp;  [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
 
-Contribute to **[YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)**
+Consider contributing to **[YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)**
                                                                                  
 ## Working Papers
 
@@ -102,6 +102,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 4. Jobless Industrialization, with Laura Alfaro, Marcela Eslava and Felipe Saenz.
 
+5. Persistence of Inequality after Apartheid: Assessing the Role of Geography and Skills, with Kristina Manysheva and Johanna Schauer.
+
+6. Scale and Skill, with Diego Comin and Matthew Dey.
    
 
 
