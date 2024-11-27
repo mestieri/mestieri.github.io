@@ -15,7 +15,7 @@ blue {
 Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
 UPF Associate Professor and CREi Associate Researcher.
 -->
-Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
+Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing), located at UAB Bellaterra campus.
 
 **Contact** marti.mestieri@iae.csic.es
 <!--
