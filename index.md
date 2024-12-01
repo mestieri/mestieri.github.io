@@ -15,12 +15,17 @@ blue {
 Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
 UPF Associate Professor and CREi Associate Researcher.
 -->
-Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing), located at UAB Bellaterra campus.
+Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
 
-**Contact** marti.mestieri@iae.csic.es
+**Email** marti.mestieri@iae.csic.es
 <!--
 **Contact** marti.mestieri mestieri dot marti at gmail dot com.
 -->
+
+**Address**
+  Institute for Economic Analysis (IAE-CSIC)
+  Universitat Autònoma de Barcelona Campus
+  Bellaterra, 08193, Barcelona, Spain
 
 **Research Interests** Economic Growth, International Trade, and Macroeconomic Aspects of Economic Development.
 <!--**CV** Available upon request
