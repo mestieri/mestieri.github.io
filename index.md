@@ -32,9 +32,9 @@ Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
 **Curriculum Vitae** [[pdf](﻿﻿https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)]
 -->
 
-[CV](https://www.dropbox.com/scl/fi/49hvhu9yg5jm4z4eyeygy/mestieri_cv_sept24.pdf?rlkey=8h1g1ptjgbl00i7v8bq3mrh5e&dl=0)&nbsp; &nbsp; &nbsp;   [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca) &nbsp; &nbsp; &nbsp;  [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
+[CV](https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)&nbsp; &nbsp; &nbsp;   [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca) &nbsp; &nbsp; &nbsp;  [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
 
-Consider contributing to **[YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)**
+Consider contributing to [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
                                                                                  
 ## Working Papers
 
