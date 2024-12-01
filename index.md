@@ -23,8 +23,8 @@ Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
 -->
 
 **Address**
-  Institute for Economic Analysis (IAE-CSIC)
-  Universitat Autònoma de Barcelona Campus
+  Institute for Economic Analysis (IAE-CSIC);
+  Universitat Autònoma de Barcelona Campus;
   Bellaterra, 08193, Barcelona, Spain
 
 **Research Interests** Economic Growth, International Trade, and Macroeconomic Aspects of Economic Development.
