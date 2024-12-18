@@ -58,7 +58,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 2. [The Stable Transformation Path](https://www.dropbox.com/scl/fi/42sxsm4ahgxeh9wgcwx8x/bkmo_july24.pdf?rlkey=3p22096kggjzi6zg2mopvgoj6&dl=0)
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
-    [online appendix](https://www.dropbox.com/scl/fi/g9fxctt7edatpbjxvptm4/bkmo_oa_july24.pdf?rlkey=re54p78yaiczlqq1ilzq8teu4&dl=0).
+    [online appendix](https://www.dropbox.com/scl/fi/g9fxctt7edatpbjxvptm4/bkmo_oa_july24.pdf?rlkey=re54p78yaiczlqq1ilzq8teu4&dl=0).*Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
 
 3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
 
