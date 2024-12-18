@@ -45,9 +45,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
-4. [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue.
-
-5. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/2gwulxxtmb1gbibm4lfae/gms.pdf?rlkey=fajrqes3isosboyxke0fikeog&dl=0) with Ruben Gaetani and Gustavo de Souza.
+4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/2gwulxxtmb1gbibm4lfae/gms.pdf?rlkey=fajrqes3isosboyxke0fikeog&dl=0) with Ruben Gaetani and Gustavo de Souza.
 
 
 ## Submitted Papers or Under Revision
@@ -61,6 +59,8 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
     [online appendix](https://www.dropbox.com/scl/fi/g9fxctt7edatpbjxvptm4/bkmo_oa_july24.pdf?rlkey=re54p78yaiczlqq1ilzq8teu4&dl=0). *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
 
 3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
+
+4. [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue.
 
 
 
