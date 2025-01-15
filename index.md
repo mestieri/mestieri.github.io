@@ -68,6 +68,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 11. [Quarterly Industry-Level Labor Productivity Data for the U.S.](https://www.dropbox.com/scl/fi/gcxep9beveqbb5ob52nnx/Productivity_EP.pdf?rlkey=o5vjpc8s941lq727tf6nazi27&dl=0) with Bart Hobijn, Nicolas Werquin and Jing Zhang. Accepted at the *<blue>Federal Reserve Bank of Chicago Economic Perspectives</blue>*.
 
+    [Dataset of Quarterly Industry-Level Labor Productivity Data](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp.xlsx);
+        Data construction [Documentation](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp-release-notes.pdf)
+
 10. [Technological Waves, Knowledge Diffusion, and Local Growth](https://www.dropbox.com/scl/fi/jzjsn0dxzx366wj47qd4d/bgm.pdf?rlkey=ac1wvsimj4y7jpmccbkpse3bf&dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: Sept. 2024. *Accepted for publication, <blue>JPE: Macro</blue>*.
   
 9. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023. *Forthcoming, <blue>Journal of International Economics</blue>*.
@@ -112,7 +115,6 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 6. Scale and Skill, with Diego Comin and Matthew Dey.
    
 
-
 ## Teaching Materials
 
 [Step-by-step derivations for Nonhomothetic CES](https://www.dropbox.com/s/b5r76pev48xo6is/nhcesstepbystep.pdf?dl=0)
@@ -120,5 +122,13 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 [Guest Lecture on Structural Change and Nonhomothetic CES at U Chicago Ec 376](https://www.dropbox.com/s/desc962vwmcdbat/structural_change_lecture.pdf?dl=0)
 
 [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
+
+
+## Data
+
+[Dataset of Quarterly Industry-Level Labor Productivity Data for the US](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp.xlsx); Data [Documentation](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp-release-notes.pdf)
+
+
+
 
 
