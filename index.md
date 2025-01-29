@@ -71,11 +71,11 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
     [Dataset of Quarterly Industry-Level Labor Productivity Data](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp.xlsx);
         Data construction [Documentation](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp-release-notes.pdf)
 
-10. [Technological Waves, Knowledge Diffusion, and Local Growth](https://www.dropbox.com/scl/fi/jzjsn0dxzx366wj47qd4d/bgm.pdf?rlkey=ac1wvsimj4y7jpmccbkpse3bf&dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: Sept. 2024. *Accepted for publication, <blue>JPE: Macro</blue>*.
+10. [Technological Waves, Knowledge Diffusion, and Local Growth](https://www.dropbox.com/scl/fi/jzjsn0dxzx366wj47qd4d/bgm.pdf?rlkey=ac1wvsimj4y7jpmccbkpse3bf&dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: Sept. 2024. *Forthcoming, <blue>JPE: Macro</blue>*.
   
-9. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023. *Forthcoming, <blue>Journal of International Economics</blue>*.
+9. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023, last update: January 2024. *<blue>Journal of International Economics</blue>*, November 2024.
    
-8. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *Forthcoming, <blue> Journal of International Economics</blue>*.
+8. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *<blue> Journal of International Economics</blue>*, January 2025.
 
 7.  [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0)
     with Diego Comin and Danial Lashkari, 
