@@ -6,6 +6,11 @@ title: Martí Mestieri's Research Page
 
 {% raw %}
 <style>
+  blue {
+  color: #B47846;
+   
+}
+
 /* Set base styles */
 body {
   font-size: 1.2rem;
@@ -46,7 +51,7 @@ img {
 }
 </style>
 {% endraw %}
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 # Martí Mestieri's Research Page
  <!-- #BFA887;  #AEBC21;
 Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
