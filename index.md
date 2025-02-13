@@ -4,6 +4,7 @@ title: Martí Mestieri's Research Page
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+{% raw %}
 <style>
 /* Set base styles */
 body {
@@ -44,6 +45,7 @@ img {
   }
 }
 </style>
+{% endraw %}
 
 # Martí Mestieri's Research Page
  <!-- #BFA887;  #AEBC21;
