@@ -12,7 +12,7 @@ title: Martí Mestieri's Research Page
 
 /* Set base styles */
 body {
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   max-width: 80%;
   margin: auto;
   line-height: 1.6;
