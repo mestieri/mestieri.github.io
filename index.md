@@ -75,8 +75,7 @@ Bellaterra, 08193, Barcelona, Spain
 Economic Growth, International Trade, and Macroeconomic Aspects of Economic Development.
 
 [CV](https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)&nbsp; &nbsp; &nbsp;   
-[Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca) &nbsp; &nbsp; &nbsp;  
-[IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
+[Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)        [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
 
 Consider contributing to [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
                                                                                  
