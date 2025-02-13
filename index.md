@@ -29,7 +29,7 @@ img {
 /* Responsive design for smaller screens */
 @media (max-width: 768px) {
   body {
-    font-size: 1rem;
+    font-size: 0.95rem;
     max-width: 90%;
   }
   
@@ -40,7 +40,7 @@ img {
 
 @media (max-width: 480px) {
   body {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     max-width: 95%;
   }
   
