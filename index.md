@@ -15,6 +15,9 @@ blue {
 Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
 UPF Associate Professor and CREi Associate Researcher.
 -->
+
+<img src="marti-696x928.jpeg" alt="Martí Mestieri" style="width: 33%; display: block; margin: auto;">
+
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
 
 **Email** marti.mestieri@iae.csic.es
