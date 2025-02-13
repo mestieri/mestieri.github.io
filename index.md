@@ -7,13 +7,12 @@ title: Martí Mestieri's Research Page
 {% raw %}
 <style>
   blue {
-  color: #B47846;
-   
+  color: #B47846;  
 }
 
 /* Set base styles */
 body {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   max-width: 80%;
   margin: auto;
   line-height: 1.6;
