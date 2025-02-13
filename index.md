@@ -2,12 +2,47 @@
 layout: default
 title: Martí Mestieri's Research Page
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
-blue {
-  color: #B47846;
-   
+/* Set base styles */
+body {
+  font-size: 1.2rem;
+  max-width: 80%;
+  margin: auto;
+  line-height: 1.6;
 }
 
+img {
+  width: 13%;
+  display: block;
+  margin-left: 0;
+  max-width: 100%; /* Ensures the image does not overflow */
+  height: auto;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  body {
+    font-size: 1rem;
+    max-width: 90%;
+  }
+  
+  img {
+    width: 25%; /* Increase image size slightly on tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 0.9rem;
+    max-width: 95%;
+  }
+  
+  img {
+    width: 50%; /* Make image bigger for small screens */
+  }
+}
 </style>
 
 # Martí Mestieri's Research Page
@@ -16,7 +51,7 @@ Senior Economist in the Economic Research Department at the Federal Reserve Bank
 UPF Associate Professor and CREi Associate Researcher.
 -->
 
-<img src="marti-696x928.jpeg" alt="Martí Mestieri" style="width: 13%; display: block; margin-left: 0;">
+<img src="marti-696x928.jpeg" alt="Martí Mestieri">
 
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
 
@@ -25,17 +60,17 @@ Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
 **Contact** marti.mestieri mestieri dot marti at gmail dot com.
 -->
 
-**Address**
-  Institute for Economic Analysis (IAE-CSIC);
-  Universitat Autònoma de Barcelona Campus;
-  Bellaterra, 08193, Barcelona, Spain
+**Address**  
+Institute for Economic Analysis (IAE-CSIC);  
+Universitat Autònoma de Barcelona Campus;  
+Bellaterra, 08193, Barcelona, Spain
 
-**Research Interests** Economic Growth, International Trade, and Macroeconomic Aspects of Economic Development.
-<!--**CV** Available upon request
-**Curriculum Vitae** [[pdf](﻿﻿https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)]
--->
+**Research Interests**  
+Economic Growth, International Trade, and Macroeconomic Aspects of Economic Development.
 
-[CV](https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)&nbsp; &nbsp; &nbsp;   [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca) &nbsp; &nbsp; &nbsp;  [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
+[CV](https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)&nbsp; &nbsp; &nbsp;   
+[Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca) &nbsp; &nbsp; &nbsp;  
+[IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
 
 Consider contributing to [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
                                                                                  
