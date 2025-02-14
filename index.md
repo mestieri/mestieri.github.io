@@ -8,7 +8,10 @@ title: Martí Mestieri's Research Page
 <style>
   blue {
   color: #B47846;  
-}
+} 
+  pink {
+  color: #FF5470; /* Vibrant coral pink */
+  }
 
 /* Set base styles */
 body {
@@ -61,21 +64,30 @@ UPF Associate Professor and CREi Associate Researcher.
 
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
 
-**Email** marti.mestieri@iae.csic.es
+**Email** &nbsp; marti.mestieri@iae.csic.es
 <!--
 **Contact** marti.mestieri mestieri dot marti at gmail dot com.
 -->
+**Curriculum** &nbsp; [CV](https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)  
+
+**Research Profiles** &nbsp; [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)&nbsp; &nbsp; &nbsp; [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
+
+**Research Interests**   Macroeconomic Aspects of Economic Development, Economic Growth, International Trade.
 
 **Address**  
 Institute for Economic Analysis (IAE-CSIC);  
 Universitat Autònoma de Barcelona Campus;  
 Bellaterra, 08193, Barcelona, Spain
 
-**Research Interests**  
-Economic Growth, International Trade, and Macroeconomic Aspects of Economic Development.
 
-[CV](https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)&nbsp; &nbsp; &nbsp;   
-[Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)&nbsp; &nbsp; &nbsp; [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
+**Upcoming Workshops** that I co-organize
+
+1. <pink>Bellaterra Growth Workshop</pink> (March 21st) [Program](https://www.pauroldan.com/uploads/1/2/1/7/121700388/bgw_2025_-_program.pdf) - [Sign up to attend](https://forms.gle/nbjteuXvc3nZYC499)
+
+2. <pink>Growth and Productivity Workshop</pink> at BSE Summer Forum  (June 17 and 18) [Call for papers](https://events.bse.eu/live/files/5392-sf2025-call-for-papers-growth-and-productivity)
+
+3. <pink>Macro-Development Workshop</pink> at BSE Summer Forum (June 18) [Call for papers](https://events.bse.eu/live/files/5362-sf2025-call-for-papers-macro-development)
+
 
 Consider contributing to [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
                                                                                  
