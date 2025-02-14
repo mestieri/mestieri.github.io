@@ -82,11 +82,11 @@ Bellaterra, 08193, Barcelona, Spain
 
 **Upcoming Workshops** that I co-organize
 
-1. <pink>Bellaterra Growth Workshop</pink> (March 21st) [Program](https://www.pauroldan.com/uploads/1/2/1/7/121700388/bgw_2025_-_program.pdf) - [Sign up to attend](https://forms.gle/nbjteuXvc3nZYC499)
+1. <pink>Bellaterra Growth Workshop</pink> March 21st, [Program](https://www.pauroldan.com/uploads/1/2/1/7/121700388/bgw_2025_-_program.pdf) - [Sign up to attend](https://forms.gle/nbjteuXvc3nZYC499)
 
-2. <pink>Growth and Productivity Workshop</pink> at BSE Summer Forum  (June 17 and 18) [Call for papers](https://events.bse.eu/live/files/5392-sf2025-call-for-papers-growth-and-productivity)
+3. <pink>Growth and Productivity Workshop</pink> at BSE Summer Forum , June 17 and 18, [Call for papers](https://events.bse.eu/live/files/5392-sf2025-call-for-papers-growth-and-productivity)
 
-3. <pink>Macro-Development Workshop</pink> at BSE Summer Forum (June 18) [Call for papers](https://events.bse.eu/live/files/5362-sf2025-call-for-papers-macro-development)
+4. <pink>Macro-Development Workshop</pink> at BSE Summer Forum, June 18, [Call for papers](https://events.bse.eu/live/files/5362-sf2025-call-for-papers-macro-development)
 
 
 Consider contributing to [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
