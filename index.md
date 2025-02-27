@@ -13,17 +13,59 @@ title: Martí Mestieri's Research Page
   color: #FF5470; /* Vibrant coral pink */
   }
 
-# Martí Mestieri's Research Page
+/* Set base styles */
+body {
+  font-size: 1.0rem;
+  max-width: 80%;
+  margin: auto;
+  line-height: 1.6;
+}
 
-<div class="container">
-  <div class="image-column">
-    <img src="marti-696x928.jpeg" alt="Martí Mestieri">
-  </div>
-  <div class="text-column">
-    <p>Research Scientist at <a href="https://www.iae.csic.es/index.php?lang=ing">IAE-CSIC</a></p>
-    <p><strong>Email:</strong> marti.mestieri@iae.csic.es</p>
-  </div>
-</div>
+img {
+  width: 13%;
+  display: block;
+  margin-left: 0;
+  max-width: 100%; /* Ensures the image does not overflow */
+  height: auto;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  body {
+    font-size: 0.95rem;
+    max-width: 90%;
+  }
+  
+  img {
+    width: 25%; /* Increase image size slightly on tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 0.85rem;
+    max-width: 95%;
+  }
+  
+  img {
+    width: 50%; /* Make image bigger for small screens */
+  }
+}
+</style>
+{% endraw %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+# Martí Mestieri's Research Page
+ <!-- #BFA887;  #AEBC21;
+Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
+UPF Associate Professor and CREi Associate Researcher.
+-->
+
+<img src="marti-696x928.jpeg" alt="Martí Mestieri">
+
+Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
+
+**Email** &nbsp; marti.mestieri@iae.csic.es
+  
 **Curriculum** &nbsp; [CV](https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)  
 
 **Research Profiles** &nbsp; [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)&nbsp; &nbsp; &nbsp; [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
