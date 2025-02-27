@@ -22,7 +22,7 @@ body {
 }
 
 img {
-  width: 13%;
+  width: 25%;
   display: block;
   margin-left: 0;
   max-width: 100%; /* Ensures the image does not overflow */
