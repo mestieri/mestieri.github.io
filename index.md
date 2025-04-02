@@ -58,10 +58,10 @@ img {
  <!-- #BFA887;  #AEBC21;
 Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
 UPF Associate Professor and CREi Associate Researcher.
--->
+
 
 <img src="marti-696x928.jpeg" alt="Martí Mestieri">
-
+-->
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
 
 **Email** &nbsp; marti.mestieri@iae.csic.es
@@ -98,7 +98,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
-4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/2gwulxxtmb1gbibm4lfae/gms.pdf?rlkey=fajrqes3isosboyxke0fikeog&dl=0) with Ruben Gaetani and Gustavo de Souza.
+4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/y5l2ym51sj576dvtwt5en/dgm_mar2025.pdf?rlkey=e4bj483w6nidv67zyrj5crjcc&dl=0) with Ruben Gaetani and Gustavo de Souza.
 
 
 ## Submitted Papers or Under Revision
