@@ -57,10 +57,7 @@ img {
 # Martí Mestieri's Research Page
  <!-- #BFA887;  #AEBC21;
 Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
-UPF Associate Professor and CREi Associate Researcher.
-
-
-<img src="marti-696x928.jpeg" alt="Martí Mestieri">
+UPF Associate Professor and CREi Associate Researcher. <img src="marti-696x928.jpeg" alt="Martí Mestieri">
 -->
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing), visiting the Northwestern Economics Dept. during the 2025 Spring quarter
 
