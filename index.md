@@ -62,7 +62,7 @@ UPF Associate Professor and CREi Associate Researcher.
 
 <img src="marti-696x928.jpeg" alt="Martí Mestieri">
 -->
-Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing), Visiting the Northwestern U. Economics Dept. the 2025 Spring quarter
+Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing), visiting the Northwestern Economics Dept. during the 2025 Spring quarter
 
 **Email** &nbsp; marti.mestieri@iae.csic.es
   
