@@ -88,15 +88,17 @@ Consider contributing to [YingHua He memorial fund for graduate fellowships](htt
                                                                                  
 ## Working Papers
 
-1. [Economic Geography and Structural Change with Heterothetic
+1. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
+
+2.  [Economic Geography and Structural Change with Heterothetic
 Cobb-Douglas Preferences](https://www.dropbox.com/scl/fi/xo7rapzw5rcoed6pvjf79/EcoGeo-StructChange-HCD.pdf?rlkey=ddjsji9a0rugt3mtncnyocf1n&dl=0), with Clement Bohr and Frédéric Robert-Nicoud. Supersedes the papers [Economic Geography and Structural Change](https://www.dropbox.com/scl/fi/bxhfrsu67d2nd9vpth9kk/BohrMestieriRobertnicoud.pdf?rlkey=mkg3m5n697su8r34flqa146lm&dl=0)  [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0), [CEPR WP](https://cepr.org/publications/dp18077) which contains some additional results.
 
-2. [Aggregation and Closed-Form Results
+3. [Aggregation and Closed-Form Results
 for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wyeh64fc9f/BMY_closedform.pdf?rlkey=inrafvfuv22xz0z58pgb9oeqy&dl=0) with Clement Bohr and Emre Enes Yavuz, [CEPR WP](https://cepr.org/publications/dp18606).
 
-3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
+4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
-4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/y5l2ym51sj576dvtwt5en/dgm_mar2025.pdf?rlkey=e4bj483w6nidv67zyrj5crjcc&dl=0) with Ruben Gaetani and Gustavo de Souza.
+5. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/y5l2ym51sj576dvtwt5en/dgm_mar2025.pdf?rlkey=e4bj483w6nidv67zyrj5crjcc&dl=0) with Ruben Gaetani and Gustavo de Souza.
 
 
 ## Submitted Papers or Under Revision
@@ -153,17 +155,15 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 ## Work in Progress 
 
-1. Structural Change in Innovation, with Danial Lashkari and Diego Comin.
+1. What Goods do Countries Trade?, with Danial Lashkari.
 
-2. What Goods do Countries Trade?, with Danial Lashkari.
+2. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
 
-3. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
+3. Jobless Industrialization, with Laura Alfaro, Marcela Eslava and Felipe Saenz.
 
-4. Jobless Industrialization, with Laura Alfaro, Marcela Eslava and Felipe Saenz.
+4. Persistence of Inequality after Apartheid: Assessing the Role of Geography and Skills, with Kristina Manysheva and Johanna Schauer.
 
-5. Persistence of Inequality after Apartheid: Assessing the Role of Geography and Skills, with Kristina Manysheva and Johanna Schauer.
-
-6. Scale and Skill, with Diego Comin and Matthew Dey.
+5. Scale and Skill, with Diego Comin and Matthew Dey.
    
 
 ## Teaching Materials
