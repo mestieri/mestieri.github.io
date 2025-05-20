@@ -88,17 +88,15 @@ Consider contributing to [YingHua He memorial fund for graduate fellowships](htt
                                                                                  
 ## Working Papers
 
-1. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
-
-2.  [Economic Geography and Structural Change with Heterothetic
+1.  [Economic Geography and Structural Change with Heterothetic
 Cobb-Douglas Preferences](https://www.dropbox.com/scl/fi/xo7rapzw5rcoed6pvjf79/EcoGeo-StructChange-HCD.pdf?rlkey=ddjsji9a0rugt3mtncnyocf1n&dl=0), with Clement Bohr and Frédéric Robert-Nicoud. Supersedes the papers [Economic Geography and Structural Change](https://www.dropbox.com/scl/fi/bxhfrsu67d2nd9vpth9kk/BohrMestieriRobertnicoud.pdf?rlkey=mkg3m5n697su8r34flqa146lm&dl=0)  [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0), [CEPR WP](https://cepr.org/publications/dp18077) which contains some additional results.
 
-3. [Aggregation and Closed-Form Results
+2. [Aggregation and Closed-Form Results
 for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wyeh64fc9f/BMY_closedform.pdf?rlkey=inrafvfuv22xz0z58pgb9oeqy&dl=0) with Clement Bohr and Emre Enes Yavuz, [CEPR WP](https://cepr.org/publications/dp18606).
 
-4. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
+3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
-5. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/y5l2ym51sj576dvtwt5en/dgm_mar2025.pdf?rlkey=e4bj483w6nidv67zyrj5crjcc&dl=0) with Ruben Gaetani and Gustavo de Souza.
+4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/y5l2ym51sj576dvtwt5en/dgm_mar2025.pdf?rlkey=e4bj483w6nidv67zyrj5crjcc&dl=0) with Ruben Gaetani and Gustavo de Souza.
 
 
 ## Submitted Papers or Under Revision
@@ -114,6 +112,8 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
 
 4. [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue.
+
+5. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
 
 
 
