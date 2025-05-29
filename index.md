@@ -117,41 +117,47 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 ## Publications
 
-12.  [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, accepted at *<blue>Economics Letters</blue>*.
+1. [Heterogeneous Trade Costs and Wage Inequality: A Model of Two Globalizations](https://www.dropbox.com/s/ek1tnn8osqoolx3/BM2G.pdf?dl=0), with Sergi Basco. *<blue>Journal of International Economics</blue>*, March 2013.
 
-11. [Quarterly Industry-Level Labor Productivity Data for the U.S.](https://www.dropbox.com/scl/fi/gcxep9beveqbb5ob52nnx/Productivity_EP.pdf?rlkey=o5vjpc8s941lq727tf6nazi27&dl=0) with Bart Hobijn, Nicolas Werquin and Jing Zhang. Accepted at the *<blue>Federal Reserve Bank of Chicago Economic Perspectives</blue>*.
+2. [Technology Diffusion: Measurement, Causes and Consequences](https://www.dropbox.com/s/wb4t5a6jn2qkfdx/CM_chapter.pdf?dl=0), with Diego Comin. *<blue>Handbook of Economic Growth</blue>*, 2014.
 
-    [Dataset of Quarterly Industry-Level Labor Productivity Data](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp.xlsx);
-        Data construction [Documentation](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp-release-notes.pdf)
+3. [Mergers along the Global Supply Chain: Information Technologies and Routine Tasks](https://www.dropbox.com/s/dbevybjgig53owv/BM_MandA.pdf?dl=0), with Sergi Basco. *<blue>Oxford Bulletin of Economics and Statistics</blue>*, April 2017.  
+  [WP version](https://www.dropbox.com/s/9zb0f8drntg5zz0/BM_MandAR.pdf?dl=0); Media: [VoxEU](http://www.voxeu.org/article/ict-and-global-supply-chains)
 
-10. [Technological Waves, Knowledge Diffusion, and Local Growth](https://www.dropbox.com/scl/fi/jzjsn0dxzx366wj47qd4d/bgm.pdf?rlkey=ac1wvsimj4y7jpmccbkpse3bf&dl=0) with Enrico Berkes and Ruben Gaetani, first version: Dec. 2021, last update: Sept. 2024. *Forthcoming, <blue>JPE: Macro</blue>*.
-  
-9. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0) with Sergi Basco, Giulia Felice and Bruno Merlevede, first version: April 2023, last update: January 2024. *<blue>Journal of International Economics</blue>*, November 2024.
-   
-8. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0) first version: July 2021, last update: Dec. 2023. *<blue> Journal of International Economics</blue>*, January 2025.
+4. [Human Capital Accumulation and Occupational Choice: Implications for Economic Development](https://www.dropbox.com/s/i9y5hhldhf8sf2z/MST_rev.pdf?dl=0), with Johanna Schauer and Robert Townsend. *<blue>Review of Economic Dynamics</blue>*, May 2017.  
+  [Online appendix](https://www.dropbox.com/s/7nmwugrvgbw5q3a/MST_rev_onlineappendix.pdf?dl=0);  
+  [Replication files](https://www.dropbox.com/s/p3wkhbsmytj9rnx/MST_replication_files.zip?dl=0)
 
-7.  [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0)
-    with Diego Comin and Danial Lashkari, 
-   *<blue>Econometrica</blue>*, January 2021, vol. 89(1), p. 311-374.
-    [Online appendix](https://www.dropbox.com/s/k0n1wc79z3u10ck/CLM_onlineappendix_final.pdf?dl=0). [2018 draft version](https://www.dropbox.com/s/98e9tjnx3nhlhdd/CLM_rev2.pdf?dl=0) (lighter theory with different notation). Awarded a Wiley Certificate of Achievement for being among the 2021-2022 top cited and downloaded articles in Econometrica.
+5. [If Technology Has Arrived Everywhere, Why Has Income Diverged?](https://www.dropbox.com/s/l04exb9tn9zcsdt/CM_transition.pdf?dl=0), with Diego Comin. *<blue>AEJ: Macroeconomics</blue>*, July 2018.  
+  [Appendix](https://www.dropbox.com/s/hpmdrvmg5bbwe0p/CM_transition_appendix.pdf?dl=0); [Estimates](https://www.dropbox.com/s/y34zbbnuji9mley/CM_online_results.csv?dl=0);  
+  [Replication files](https://sites.google.com/site/martimestieri/replication%20files.zip?attredirects=0&d=1)  
+  Media: [AEA](https://www.aeaweb.org/research/technology-intensity-of-use-income-divergence), [Economist 1](http://www.economist.com/news/briefing/21679448-pace-business-really-getting-quicker-creed-speed), [Economist 2](https://www.economist.com/finance-and-economics/2023/07/16/your-employer-is-probably-unprepared-for-artificial-intelligence), [NYT](http://economix.blogs.nytimes.com/2013/05/10/technology-as-a-driver-of-growth-or-not/), [VoxEU](http://www.voxeu.org/article/technology-and-income-dynamics-1800-2000), [Bloomberg](http://www.bloomberg.com/news/2013-05-09/fed-in-2008-showed-panic-of-1907-was-excessive-cutting-research.html), [EconomicLogic](http://economiclogic.blogspot.com.es/2013/06/income-divergence-in-face-of-faster.html)
 
-      [Step-by-step derivations for Nonhomothetic CES](https://www.dropbox.com/s/b5r76pev48xo6is/nhcesstepbystep.pdf?dl=0)
-   
-      [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)    
+6. [The World Income Distribution: The Effects of International Unbundling of Production](https://www.dropbox.com/s/czqzvaqwtgmk5hs/BMU_rev.pdf?dl=0), with Sergi Basco. *<blue>Journal of Economic Growth</blue>*, May 2019.  
+  [Online appendix](https://www.dropbox.com/s/sgwdn0qb2kwca8k/BMU_onlineappendix_rev.pdf?dl=0);  
+  [Supplemental material](https://www.dropbox.com/s/teu5685tej9tt54/BMP3_additional_results_rev2.pdf?dl=0);  
+  [Replication files](https://www.dropbox.com/s/94zy8f7iwh2yvvl/replication%20files%20bmp3.zip?dl=0);  
+  [Extension on within-country inequality](https://www.dropbox.com/s/83ty9lv2lem87y1/BM_Trade_and_within_inequality.pdf?dl=0)
 
-6. [The World Income Distribution: The Effects of International Unbundling of Production](https://www.dropbox.com/s/czqzvaqwtgmk5hs/BMU_rev.pdf?dl=0), with Sergi Basco, [online appendix](https://www.dropbox.com/s/sgwdn0qb2kwca8k/BMU_onlineappendix_rev.pdf?dl=0), [supplemental material](https://www.dropbox.com/s/teu5685tej9tt54/BMP3_additional_results_rev2.pdf?dl=0), [replication files](https://www.dropbox.com/s/94zy8f7iwh2yvvl/replication%20files%20bmp3.zip?dl=0). *<blue>Journal of Economic Growth</blue>*, May 2019, 24(2), 189-221.
-       [Extension Studying Unbundling and Within Country Inequality](https://www.dropbox.com/s/83ty9lv2lem87y1/BM_Trade_and_within_inequality.pdf?dl=0) (SSRN WP).
+7. [Structural Change with Long-run Income and Price Effects](https://www.dropbox.com/s/prta8e8rul85w6i/CLM_final.pdf?dl=0), with Diego Comin and Danial Lashkari. *<blue>Econometrica</blue>*, January 2021.  
+  [Online appendix](https://www.dropbox.com/s/k0n1wc79z3u10ck/CLM_onlineappendix_final.pdf?dl=0);  
+  [2018 draft version](https://www.dropbox.com/s/98e9tjnx3nhlhdd/CLM_rev2.pdf?dl=0)  
+  [Step-by-step derivations](https://www.dropbox.com/s/b5r76pev48xo6is/nhcesstepbystep.pdf?dl=0);  
+  [Estimation code](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
 
-5. [If Technology Has Arrived Everywhere, Why Has Income Diverged?](https://www.dropbox.com/s/l04exb9tn9zcsdt/CM_transition.pdf?dl=0) with Diego Comin, [appendix](https://www.dropbox.com/s/hpmdrvmg5bbwe0p/CM_transition_appendix.pdf?dl=0), [estimates](https://www.dropbox.com/s/y34zbbnuji9mley/CM_online_results.csv?dl=0), [replication files](https://sites.google.com/site/martimestieri/replication%20files.zip?attredirects=0&d=1), media:  [AEA's highlight video](https://www.aeaweb.org/research/technology-intensity-of-use-income-divergence),  [the economist 1](http://www.economist.com/news/briefing/21679448-pace-business-really-getting-quicker-creed-speed),  [the economist 2](https://www.economist.com/finance-and-economics/2023/07/16/your-employer-is-probably-unprepared-for-artificial-intelligence), [nyt](http://economix.blogs.nytimes.com/2013/05/10/technology-as-a-driver-of-growth-or-not/), [voxeu](http://www.voxeu.org/article/technology-and-income-dynamics-1800-2000), [bloomberg](http://www.bloomberg.com/news/2013-05-09/fed-in-2008-showed-panic-of-1907-was-excessive-cutting-research.html), [economiclogic](http://economiclogic.blogspot.com.es/2013/06/income-divergence-in-face-of-faster.html). *<blue>AEJ: Macroeconomics</blue>*, July 2018, vol. 10, no. 3.
+8. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0), with Sergi Basco, Maxime Liegey and Gabriel Smagghue. *<blue>Journal of International Economics</blue>*, January 2025.  
+  [Online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0)
 
-4. [Human Capital Accumulation and Occupational Choice: Implications for Economic Development](https://www.dropbox.com/s/i9y5hhldhf8sf2z/MST_rev.pdf?dl=0), with Johanna Schauer and Robert Townsend, [online appendix](https://www.dropbox.com/s/7nmwugrvgbw5q3a/MST_rev_onlineappendix.pdf?dl=0), [replication files](https://www.dropbox.com/s/p3wkhbsmytj9rnx/MST_replication_files.zip?dl=0). *<blue>Review of Economic Dynamics</blue>* (special issue on Human Capital and Inequality), May 2017, vol. 25 (2017), pp. 151–186.
+9. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0), with Sergi Basco, Giulia Felice and Bruno Merlevede. *<blue>Journal of International Economics</blue>*, November 2024.
 
-3. [Mergers along the Global Supply Chain: Information Technologies and Routine Tasks](https://www.dropbox.com/s/dbevybjgig53owv/BM_MandA.pdf?dl=0), with Sergi Basco, media: [voxeu](http://www.voxeu.org/article/ict-and-global-supply-chains). [WP version](https://www.dropbox.com/s/9zb0f8drntg5zz0/BM_MandAR.pdf?dl=0). *<blue>Oxford Bulletin of Economics and Statistics</blue>*, April 2017. 
+10. [Technological Waves, Knowledge Diffusion, and Local Growth](https://www.dropbox.com/scl/fi/jzjsn0dxzx366wj47qd4d/bgm.pdf?rlkey=ac1wvsimj4y7jpmccbkpse3bf&dl=0), with Enrico Berkes and Ruben Gaetani. *Forthcoming, <blue>JPE: Macro</blue>*
 
-2. [Technology Diffusion: Measurement, Causes and Consequences](https://www.dropbox.com/s/wb4t5a6jn2qkfdx/CM_chapter.pdf?dl=0), with Diego Comin, *<blue>Handbook of Economic Growth</blue>*, 2014, vol 2B, Ch. 2,  pp. 565–622.
+11. [Quarterly Industry-Level Labor Productivity Data for the U.S.](https://www.dropbox.com/scl/fi/gcxep9beveqbb5ob52nnx/Productivity_EP.pdf?rlkey=o5vjpc8s941lq727tf6nazi27&dl=0), with Bart Hobijn, Nicolas Werquin and Jing Zhang. *<blue>FRB Chicago Economic Perspectives</blue>*
 
-1. [Heterogeneous Trade Costs and Wage Inequality: A Model of Two Globalizations](https://www.dropbox.com/s/ek1tnn8osqoolx3/BM2G.pdf?dl=0), with Sergi Basco, *<blue>Journal of International Economics</blue>*, March 2013, vol. 89(2), pp. 393-406.
+  [Dataset](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp.xlsx);  
+  [Documentation](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp-release-notes.pdf)
 
+12. [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0), with Sergi Basco, Maxime Liegey and Gabriel Smagghue. *<blue>Economics Letters</blue>*
 
 ## Work in Progress 
 
