@@ -111,13 +111,13 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
 
-4. [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue.
-
-5. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
+4. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
 
 
 
 ## Publications
+
+12.  [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0) with Sergi Basco, Maxime Liegey and Gabriel Smagghue, accepted at *<blue>Economics Letters</blue>*.
 
 11. [Quarterly Industry-Level Labor Productivity Data for the U.S.](https://www.dropbox.com/scl/fi/gcxep9beveqbb5ob52nnx/Productivity_EP.pdf?rlkey=o5vjpc8s941lq727tf6nazi27&dl=0) with Bart Hobijn, Nicolas Werquin and Jing Zhang. Accepted at the *<blue>Federal Reserve Bank of Chicago Economic Perspectives</blue>*.
 
