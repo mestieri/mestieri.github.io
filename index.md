@@ -139,7 +139,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 11. [Quarterly Industry-Level Labor Productivity Data for the U.S.](https://www.dropbox.com/scl/fi/gcxep9beveqbb5ob52nnx/Productivity_EP.pdf?rlkey=o5vjpc8s941lq727tf6nazi27&dl=0), with Bart Hobijn, Nicolas Werquin and Jing Zhang. *<blue>FRB Chicago Economic Perspectives</blue>* (see [dataset](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp.xlsx); [documentation](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp-release-notes.pdf)).
 
-12. [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0), with Sergi Basco, Maxime Liegey and Gabriel Smagghue. *<blue>Economics Letters</blue>*.
+12. [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0), with Sergi Basco, Maxime Liegey and Gabriel Smagghue. *<blue>Economics Letters</blue>*, June 2025.
 
     
 ## Work in Progress 
