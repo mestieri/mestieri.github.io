@@ -77,11 +77,11 @@ Bellaterra, 08193, Barcelona, Spain
 
 **Upcoming Workshops** that I co-organize
 
-1. <pink>Bellaterra Growth Workshop</pink> March 21st, [Program](https://www.dropbox.com/scl/fi/5ox50yqhxci8d94ciwutt/BGW-2025-Program.pdf?rlkey=dugq315pnmxeohes9l9a1ocki&dl=0) 
+1. <pink>Bellaterra Growth Workshop</pink> at IAE, March 21st, [Program](https://www.dropbox.com/scl/fi/5ox50yqhxci8d94ciwutt/BGW-2025-Program.pdf?rlkey=dugq315pnmxeohes9l9a1ocki&dl=0) 
 
-3. <pink>Growth and Productivity Workshop</pink> at BSE Summer Forum , June 17 and 18, [Call for papers](https://events.bse.eu/live/files/5392-sf2025-call-for-papers-growth-and-productivity)
+3. <pink>Growth and Productivity Workshop</pink> at BSE Summer Forum , June 17 and 18, [Program](https://www.dropbox.com/scl/fi/2681ejbyoclf38th0vr5n/sf2025-program-growth-and-productivity.pdf?rlkey=0z8ncotl210qt3f7tq2on19m6&dl=0)
 
-4. <pink>Macro-Development Workshop</pink> at BSE Summer Forum, June 18, [Call for papers](https://events.bse.eu/live/files/5362-sf2025-call-for-papers-macro-development)
+4. <pink>Macro-Development Workshop</pink> at BSE Summer Forum, June 18, [Program](https://www.dropbox.com/scl/fi/nyyz8swzf2u23u5no4635/sf2025-program-macro-development.pdf?rlkey=9manu9795kdt3ccomt0sdpinf&dl=0)
 
 
 Consider contributing to [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
