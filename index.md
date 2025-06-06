@@ -75,7 +75,7 @@ Universitat Autònoma de Barcelona Campus;
 Bellaterra, 08193, Barcelona, Spain
 
 
-**Upcoming Workshops** that I co-organize
+**Upcoming Workshops** that I co-organize this spring
 
 1. <pink>Bellaterra Growth Workshop</pink> at IAE, March 21st, [Program](https://www.dropbox.com/scl/fi/5ox50yqhxci8d94ciwutt/BGW-2025-Program.pdf?rlkey=dugq315pnmxeohes9l9a1ocki&dl=0) 
 
