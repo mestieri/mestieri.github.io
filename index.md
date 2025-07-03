@@ -63,7 +63,7 @@ Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing), vi
 
 **Email** &nbsp; marti.mestieri@iae.csic.es
   
-**Curriculum** &nbsp; [CV](https://www.dropbox.com/scl/fi/asfq1wqgbykn11m32qtmi/mestieri_cv_sept24.pdf?rlkey=g09o0sxegt0qhypn4b5stzq43&dl=0)  
+**Curriculum** &nbsp; [CV](https://www.dropbox.com/scl/fi/2vg3wmp99uxt04h96f3px/mestieri_cv_july25.pdf?rlkey=o0nyuyowrwmy8jvaho89zxjzi&dl=0)  
 
 **Research Profiles** &nbsp; [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)&nbsp; &nbsp; &nbsp; [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
 
