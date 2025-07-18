@@ -79,7 +79,7 @@ Consider contributing to [YingHua He memorial fund for graduate fellowships](htt
 ## Working Papers
 
 1.  [Economic Geography and Structural Change with Heterothetic
-Cobb-Douglas Preferences](https://www.dropbox.com/scl/fi/xo7rapzw5rcoed6pvjf79/EcoGeo-StructChange-HCD.pdf?rlkey=ddjsji9a0rugt3mtncnyocf1n&dl=0), with Clement Bohr and Frédéric Robert-Nicoud. Supersedes the papers [Economic Geography and Structural Change](https://www.dropbox.com/scl/fi/bxhfrsu67d2nd9vpth9kk/BohrMestieriRobertnicoud.pdf?rlkey=mkg3m5n697su8r34flqa146lm&dl=0)  [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0), [CEPR WP](https://cepr.org/publications/dp18077) which contains some additional results.
+Cobb-Douglas Preferences](https://www.dropbox.com/scl/fi/xo7rapzw5rcoed6pvjf79/EcoGeo-StructChange-HCD.pdf?rlkey=ddjsji9a0rugt3mtncnyocf1n&dl=0), with Clement Bohr and Frédéric Robert-Nicoud. Supersedes the papers [Economic Geography and Structural Change](https://www.dropbox.com/scl/fi/bxhfrsu67d2nd9vpth9kk/BohrMestieriRobertnicoud.pdf?rlkey=mkg3m5n697su8r34flqa146lm&dl=0)  [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0), [CEPR WP](https://cepr.org/publications/dp18077) which contains some additional results. [VoxEU column](https://cepr.org/voxeu/columns/engels-law-land-how-structural-change-and-regional-disparities-shape-one-another)
 
 2. [Aggregation and Closed-Form Results
 for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wyeh64fc9f/BMY_closedform.pdf?rlkey=inrafvfuv22xz0z58pgb9oeqy&dl=0) with Clement Bohr and Emre Enes Yavuz, [CEPR WP](https://cepr.org/publications/dp18606).
@@ -99,7 +99,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
     [online appendix](https://www.dropbox.com/scl/fi/g9fxctt7edatpbjxvptm4/bkmo_oa_july24.pdf?rlkey=re54p78yaiczlqq1ilzq8teu4&dl=0). *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
 
-3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf).
+3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf). [VoxEU Column](https://cepr.org/voxeu/columns/it-takes-village-create-idea-knowledge-spillovers-and-productivity-over-past-hundred)
 
 4. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
 
@@ -123,7 +123,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 8. [The Effect of Import Competition across Occupations](https://www.dropbox.com/scl/fi/5atxvzy3830u57pg93v0f/blms_rev2.pdf?rlkey=02gzztb1bzbcc3db9547fk566&dl=0), with Sergi Basco, Maxime Liegey and Gabriel Smagghue. *<blue>Journal of International Economics</blue>*, January 2025 (see [online appendix](https://www.dropbox.com/scl/fi/r2gng6ycegyyaioicrl8g/blms_rev2_oa.pdf?rlkey=6ddy9deto2gv41qqavcrtrqu3&dl=0)).
 
-9. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0), with Sergi Basco, Giulia Felice and Bruno Merlevede. *<blue>Journal of International Economics</blue>*, November 2024.
+9. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0), with Sergi Basco, Giulia Felice and Bruno Merlevede. *<blue>Journal of International Economics</blue>*, November 2024. [VoxEU Column](https://cepr.org/voxeu/columns/financial-crises-and-global-supply-network-evidence-multinational-enterprises)
 
 10. [Technological Waves, Knowledge Diffusion, and Local Growth](https://www.dropbox.com/scl/fi/jzjsn0dxzx366wj47qd4d/bgm.pdf?rlkey=ac1wvsimj4y7jpmccbkpse3bf&dl=0), with Enrico Berkes and Ruben Gaetani. *Forthcoming, <blue>JPE: Macro</blue>*.
 
