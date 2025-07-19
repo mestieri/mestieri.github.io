@@ -86,7 +86,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
-4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/y5l2ym51sj576dvtwt5en/dgm_mar2025.pdf?rlkey=e4bj483w6nidv67zyrj5crjcc&dl=0) with Ruben Gaetani and Gustavo de Souza.
+4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/y5l2ym51sj576dvtwt5en/dgm_mar2025.pdf?rlkey=e4bj483w6nidv67zyrj5crjcc&dl=0) with Ruben Gaetani and Gustavo de Souza, [ChicagoFed WP](https://www.chicagofed.org/-/media/publications/working-papers/2024/wp2024-20.pdf?sc_lang=en).
+   
+5. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168).
 
 
 ## Submitted Papers or Under Revision
