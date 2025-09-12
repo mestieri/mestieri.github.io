@@ -128,7 +128,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 9. [Financial Crises and the Global Supply Network: Evidence from Multinational Enterprises](https://www.dropbox.com/scl/fi/6b3lvswv3cnm98pwiyawd/BFMM_Economic_Crises_and_the_Global_Supply_Chain_rev.pdf?rlkey=szf700evtygpjqx8pji2icda0&dl=0), with Sergi Basco, Giulia Felice and Bruno Merlevede. *<blue>Journal of International Economics</blue>*, November 2024. [VoxEU Column](https://cepr.org/voxeu/columns/financial-crises-and-global-supply-network-evidence-multinational-enterprises)
 
-10. [Technological Waves, Knowledge Diffusion, and Local Growth](https://www.dropbox.com/scl/fi/jzjsn0dxzx366wj47qd4d/bgm.pdf?rlkey=ac1wvsimj4y7jpmccbkpse3bf&dl=0), with Enrico Berkes and Ruben Gaetani. *Forthcoming, <blue>JPE: Macro</blue>*.
+10. [Technological Waves, Knowledge Diffusion, and Local Growth](https://www.dropbox.com/scl/fi/jzjsn0dxzx366wj47qd4d/bgm.pdf?rlkey=ac1wvsimj4y7jpmccbkpse3bf&dl=0), with Enrico Berkes and Ruben Gaetani. *<blue>JPE: Macro</blue>*, March 2025.
 
 11. [Quarterly Industry-Level Labor Productivity Data for the U.S.](https://www.dropbox.com/scl/fi/gcxep9beveqbb5ob52nnx/Productivity_EP.pdf?rlkey=o5vjpc8s941lq727tf6nazi27&dl=0), with Bart Hobijn, Nicolas Werquin and Jing Zhang. *<blue>FRB Chicago Economic Perspectives</blue>* (see [dataset](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp.xlsx); [documentation](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp-release-notes.pdf)).
 
