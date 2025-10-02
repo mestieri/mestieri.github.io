@@ -55,7 +55,7 @@ img {
 {% endraw %}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 # Martí Mestieri's Research Page
--->
+
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
 
 **Email** &nbsp; marti.mestieri@iae.csic.es
@@ -89,6 +89,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 6. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf). [VoxEU Column](https://cepr.org/voxeu/columns/it-takes-village-create-idea-knowledge-spillovers-and-productivity-over-past-hundred)
    
+
    
 ## Submitted Papers or Under Revision
 
@@ -103,6 +104,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 3. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168). [Runner-up of the EEA Mine 2025 Best Paper Award](https://www.eeassoc.org/mine-best-paper-award)
 
 4. [Engel’s Law Of The Land: Structural Change and The Rise of Spatial Disparities](https://www.dropbox.com/scl/fi/t7sime3p068ayols59bn0/EcoGeo-StructChange-HCDv2.pdf?rlkey=uijytd83754bhunhfp1to2liq&dl=0)  with Clement Bohr and Frédéric Robert-Nicoud. 
+
 
 
 ## Publications
@@ -131,6 +133,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 12. [Import Competition and Labor Regulation: Worker-Level Evidence](https://www.dropbox.com/scl/fi/yj5s143szs60qsgupjkgs/blms_regulation.pdf?rlkey=47vw3afhl8tvhp5nufeia0kij&dl=0), with Sergi Basco, Maxime Liegey and Gabriel Smagghue. *<blue>Economics Letters</blue>*, June 2025.
 
+
     
 ## Work in Progress 
 
@@ -147,6 +150,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 6. Engel's Treadmill, with Clement Bohr and Emre Enes Yavuz.
 
 7. Scale and Skill, with Diego Comin and Matthew Dey.
+
    
 
 ## Teaching Materials
