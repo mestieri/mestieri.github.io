@@ -76,7 +76,7 @@ Consider contributing to [YingHua He memorial fund for graduate fellowships](htt
 ## Working Papers
 
 1.  [Economic Geography and Structural Change with Heterothetic
-Cobb-Douglas Preferences](https://www.dropbox.com/scl/fi/xo7rapzw5rcoed6pvjf79/EcoGeo-StructChange-HCD.pdf?rlkey=ddjsji9a0rugt3mtncnyocf1n&dl=0), with Clement Bohr and Frédéric Robert-Nicoud. Supersedes the papers [Economic Geography and Structural Change](https://www.dropbox.com/scl/fi/bxhfrsu67d2nd9vpth9kk/BohrMestieriRobertnicoud.pdf?rlkey=mkg3m5n697su8r34flqa146lm&dl=0)  [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0), [CEPR WP](https://cepr.org/publications/dp18077) which contains some additional results. [VoxEU column](https://cepr.org/voxeu/columns/engels-law-land-how-structural-change-and-regional-disparities-shape-one-another)
+Cobb-Douglas Preferences](https://www.dropbox.com/scl/fi/xo7rapzw5rcoed6pvjf79/EcoGeo-StructChange-HCD.pdf?rlkey=ddjsji9a0rugt3mtncnyocf1n&dl=0), with Clement Bohr and Frédéric Robert-Nicoud. Supersedes the papers [Economic Geography and Structural Change](https://www.dropbox.com/scl/fi/bxhfrsu67d2nd9vpth9kk/BohrMestieriRobertnicoud.pdf?rlkey=mkg3m5n697su8r34flqa146lm&dl=0)  [Heterothetic Cobb-Douglas: Theory and Applications](https://www.dropbox.com/s/4ib6vfi0og7ixop/bmrn_hcd.pdf?dl=0), [CEPR WP](https://cepr.org/publications/dp18077) which contains some additional results. [VoxEU column](https://cepr.org/voxeu/columns/engels-law-land-how-structural-change-and-regional-disparities-shape-one-another) New version with new results coming soon!
 
 2. [Aggregation and Closed-Form Results
 for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wyeh64fc9f/BMY_closedform.pdf?rlkey=inrafvfuv22xz0z58pgb9oeqy&dl=0) with Clement Bohr and Emre Enes Yavuz, [CEPR WP](https://cepr.org/publications/dp18606).
@@ -102,7 +102,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168). [Runner-up of the EEA Mine 2025 Best Paper Award](https://www.eeassoc.org/mine-best-paper-award)
 
-4. 
+4. [Engel’s Law Of The Land: Structural Change and The Rise of Spatial Disparities](https://www.dropbox.com/scl/fi/t7sime3p068ayols59bn0/EcoGeo-StructChange-HCDv2.pdf?rlkey=uijytd83754bhunhfp1to2liq&dl=0)  with Clement Bohr and Frédéric Robert-Nicoud. 
 
 
 ## Publications
@@ -140,9 +140,13 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. Jobless Industrialization, with Laura Alfaro, Marcela Eslava and Felipe Saenz.
 
-4. Persistence of Inequality after Apartheid: Assessing the Role of Geography and Skills, with Kristina Manysheva and Johanna Schauer.
+4. Scale and Skill, with Diego Comin and Matthew Dey.
 
-5. Scale and Skill, with Diego Comin and Matthew Dey.
+5. Industrialization without Innovation, with Paula Bustos, Juan Manuel Castro-Vincenzi, Joan Monras and Jacopo Ponticelli.
+
+6. Engel's Treadmill, with Clement Bohr and Emre Enes Yavuz.
+
+7. Scale and Skill, with Diego Comin and Matthew Dey.
    
 
 ## Teaching Materials
