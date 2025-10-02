@@ -55,9 +55,6 @@ img {
 {% endraw %}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 # Martí Mestieri's Research Page
- <!-- #BFA887;  #AEBC21;
-Senior Economist in the Economic Research Department at the Federal Reserve Bank of Chicago (on leave).
-UPF Associate Professor and CREi Associate Researcher. <img src="marti-696x928.jpeg" alt="Martí Mestieri">
 -->
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
 
@@ -67,7 +64,7 @@ Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
 
 **Research Profiles** &nbsp; [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)&nbsp; &nbsp; &nbsp; [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
 
-**Research Interests**   Macroeconomic and International Trade Aspects of Economic Development, Economic Growth, International Trade.
+**Research Interests**   Macroeconomic and International Aspects of Economic Development, Economic Growth, International Trade.
 
 **Address**  
 Institute for Economic Analysis (IAE-CSIC);  
@@ -87,8 +84,12 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
 4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/y5l2ym51sj576dvtwt5en/dgm_mar2025.pdf?rlkey=e4bj483w6nidv67zyrj5crjcc&dl=0) with Ruben Gaetani and Gustavo de Souza, [ChicagoFed WP](https://www.chicagofed.org/-/media/publications/working-papers/2024/wp2024-20.pdf?sc_lang=en).
-   
 
+5. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
+
+6. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf). [VoxEU Column](https://cepr.org/voxeu/columns/it-takes-village-create-idea-knowledge-spillovers-and-productivity-over-past-hundred)
+   
+   
 ## Submitted Papers or Under Revision
 
 1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0) with Diego Comin and Ana Danieli,
@@ -99,13 +100,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
     [online appendix](https://www.dropbox.com/scl/fi/g9fxctt7edatpbjxvptm4/bkmo_oa_july24.pdf?rlkey=re54p78yaiczlqq1ilzq8teu4&dl=0). *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
 
-3. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf). [VoxEU Column](https://cepr.org/voxeu/columns/it-takes-village-create-idea-knowledge-spillovers-and-productivity-over-past-hundred)
+3. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168). [Runner-up of the EEA Mine 2025 Best Paper Award](https://www.eeassoc.org/mine-best-paper-award)
 
-4. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
-
-5. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168). [Runner-up of the EEA Mine 2025 Best Paper Award](https://www.eeassoc.org/mine-best-paper-award)
-
-
+4. 
 
 
 ## Publications
