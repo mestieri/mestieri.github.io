@@ -141,15 +141,15 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 2. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
 
-3. Jobless Industrialization, with Laura Alfaro, Marcela Eslava and Felipe Saenz.
+3. Jobless Industrialization, with Laura Alfaro, Marcela Eslava, and Felipe Saenz.
 
 4. Scale and Skill, with Diego Comin and Matthew Dey.
 
-5. Industrialization without Innovation, with Paula Bustos, Juan Manuel Castro-Vincenzi, Joan Monras and Jacopo Ponticelli.
+5. Industrialization without Innovation, with Paula Bustos, Juan Manuel Castro-Vincenzi, Joan Monras, and Jacopo Ponticelli.
 
 6. Engel's Treadmill, with Clement Bohr and Emre Enes Yavuz.
 
-7. Scale and Skill, with Diego Comin and Matthew Dey.
+7. Effects of Climate Change on Capital and Labor Reallocation, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
 
    
 
