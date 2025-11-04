@@ -71,7 +71,7 @@ Institute for Economic Analysis (IAE-CSIC);
 Universitat Autònoma de Barcelona Campus;  
 Bellaterra, 08193, Barcelona, Spain
 
-Consider contributing to [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
+Consider contributing to the [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
                                                                                  
 ## Working Papers
 
