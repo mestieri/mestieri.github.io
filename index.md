@@ -68,6 +68,8 @@ body {
 }
 </style>
 {% endraw %}
+# Martí Mestieri's Research Page
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <div class="profile-header">
   <img src="mestieri_pic.png"
@@ -75,7 +77,6 @@ body {
        class="profile-pic">
 
   <div markdown="1">
-# Martí Mestieri's Research Page
 
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
 
