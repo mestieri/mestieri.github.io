@@ -70,7 +70,7 @@ body {
 {% endraw %}
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <div class="profile-header">
-  <img src="mestieri_pic"
+  <img src="mestieri_pic.png"
        alt="Portrait of Martí Mestieri"
        class="profile-pic">
 
