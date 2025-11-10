@@ -78,7 +78,7 @@ body {
 
   <div markdown="1">
 
-Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
+Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing)
 
 **Email** &nbsp; marti.mestieri@iae.csic.es
   
@@ -86,7 +86,7 @@ Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
 
 **Research Profiles** &nbsp; [Google Scholar](https://scholar.google.com/citations?user=jXvJF9MAAAAJ&hl=ca)&nbsp; &nbsp; &nbsp; [IDEAS/RePEC](https://ideas.repec.org/f/pme510.html)
 
-**Research Interests**   Macroeconomic and International Aspects of Economic Development, Economic Growth, International Trade.
+**Research Interests**   Macroeconomic and International Aspects of Economic Development, Economic Growth, International Trade
 
 **Address**  
 Institute for Economic Analysis (IAE-CSIC);  
