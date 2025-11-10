@@ -21,39 +21,60 @@ body {
   line-height: 1.6;
 }
 
-img {
-  width: 25%;
-  display: block;
-  margin-left: 0;
-  max-width: 100%; /* Ensures the image does not overflow */
-  height: auto;
-}
 
-/* Responsive design for smaller screens */
-@media (max-width: 768px) {
-  body {
-    font-size: 0.95rem;
-    max-width: 90%;
+  /* Top profile block */
+  .profile-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
   }
-  
-  img {
-    width: 25%; /* Increase image size slightly on tablets */
-  }
-}
 
-@media (max-width: 480px) {
-  body {
-    font-size: 0.85rem;
-    max-width: 95%;
+  .profile-pic {
+    width: 160px;           /* adjust to taste */
+    max-width: 40vw;
+    height: auto;
+    border-radius: 8px;     /* use 50% for a circular crop */
+    display: block;
   }
-  
-  img {
-    width: 50%; /* Make image bigger for small screens */
+
+  /* Responsive design for smaller screens */
+  @media (max-width: 768px) {
+    body {
+      font-size: 0.95rem;
+      max-width: 90%;
+    }
+
+    .profile-header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .profile-pic {
+      width: 200px;
+    }
   }
+
+  @media (max-width: 480px) {
+    body {
+      font-size: 0.85rem;
+      max-width: 95%;
+    }
+
+    .profile-pic {
+      width: 60%;
+    }
 }
 </style>
 {% endraw %}
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<div class="profile-header">
+  <img src="mestieri_pic"
+       alt="Portrait of Martí Mestieri"
+       class="profile-pic">
+
+  <div>
 # Martí Mestieri's Research Page
 
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
@@ -70,6 +91,9 @@ Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
 Institute for Economic Analysis (IAE-CSIC);  
 Universitat Autònoma de Barcelona Campus;  
 Bellaterra, 08193, Barcelona, Spain
+
+  </div>
+</div>
 
 Consider contributing to the [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
                                                                                  
