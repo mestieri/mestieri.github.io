@@ -74,7 +74,7 @@ body {
        alt="Portrait of Martí Mestieri"
        class="profile-pic">
 
-  <div>
+  <div markdown="1">
 # Martí Mestieri's Research Page
 
 Research Scientist at [IAE-CSIC](https://www.iae.csic.es/index.php?lang=ing).
