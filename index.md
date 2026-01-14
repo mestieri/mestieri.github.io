@@ -114,7 +114,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 6. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf). [VoxEU Column](https://cepr.org/voxeu/columns/it-takes-village-create-idea-knowledge-spillovers-and-productivity-over-past-hundred)
  
-7. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168). [Runner-up of the EEA Mine 2025 Best Paper Award](https://www.eeassoc.org/mine-best-paper-award)
+7. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168). [Runner-up of the EEA Mine 2025 Best Paper Award](https://www.eeassoc.org/mine-best-paper-award).
+
+8. [Equivalent Logit Choice Probabilities from Optimization and Randomization](https://www.dropbox.com/scl/fi/4tyd1pta9t6713aftt7lt/MN.pdf?rlkey=fb795fsvm05pedvjtbx5u2uog&dl=0) with Jordan Norris.
    
 
    
@@ -185,6 +187,8 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 [Guest Lecture on Structural Change and Nonhomothetic CES at U Chicago Ec 376](https://www.dropbox.com/s/desc962vwmcdbat/structural_change_lecture.pdf?dl=0)
 
 [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
+
+[Idea 2nd year PhD class](https://mestieri.github.io/teaching)
 
 
 ## Data
