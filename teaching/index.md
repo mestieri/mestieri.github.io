@@ -6,4 +6,6 @@ Lecture Notes Folder for Macro 2026 UAB IDEA
 - [Value added vs Gross Output](/teaching/vago.pdf)
 - [Lecture 3: DTC and Home Market Effect](/teaching/lecture3.pdf)
 - [Problem Set](/teaching/Problem_Set.pdf)
-- [Comin Lashkari Mestieri: Structural Change in Innovation](/teaching/clm2.pdf)
+- Comin Lashkari Mestieri: Structural Change in Innovation
+-     [Standard Presentation](/teaching/clm2.pdf)
+-     [Detailed Derivations](/teaching/detailsclm2.pdf)
