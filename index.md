@@ -182,7 +182,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 ## Teaching Materials
 
-[Step-by-step derivations for Nonhomothetic CES](https://www.dropbox.com/s/b5r76pev48xo6is/nhcesstepbystep.pdf?dl=0) + [Same Slides with Additional Results: Closed Form, Aggregation and Cobb Douglas Limit](https://www.dropbox.com/scl/fi/u6eyanwfdavc457wwv058/nhceshcdstepbystep.pdf?rlkey=2pyis9bn13zoyjchx7c30geh2&dl=0)
+[Step-by-step derivations for Nonhomothetic CES](https://www.dropbox.com/s/b5r76pev48xo6is/nhcesstepbystep.pdf?dl=0) 
+
+[Derivations for Nonhomothethic CES with Additional Results: Closed Form, Aggregation and Cobb Douglas Limit](https://www.dropbox.com/scl/fi/u6eyanwfdavc457wwv058/nhceshcdstepbystep.pdf?rlkey=2pyis9bn13zoyjchx7c30geh2&dl=0)
 
 [Guest Lecture on Structural Change and Nonhomothetic CES at U Chicago Ec 376](https://www.dropbox.com/s/desc962vwmcdbat/structural_change_lecture.pdf?dl=0)
 
