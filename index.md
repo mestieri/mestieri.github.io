@@ -130,7 +130,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
     [online appendix](https://www.dropbox.com/scl/fi/g9fxctt7edatpbjxvptm4/bkmo_oa_july24.pdf?rlkey=re54p78yaiczlqq1ilzq8teu4&dl=0). *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
 
-3. [Engel’s Law Of The Land: Structural Change and The Rise of Spatial Disparities](https://www.dropbox.com/scl/fi/t7sime3p068ayols59bn0/EcoGeo-StructChange-HCDv2.pdf?rlkey=uijytd83754bhunhfp1to2liq&dl=0)  with Clement Bohr and Frédéric Robert-Nicoud. 
+3. [Engel’s Law Of The Land: Structural Change and The Rise of Spatial Disparities](https://www.dropbox.com/scl/fi/t7sime3p068ayols59bn0/EcoGeo-StructChange-HCDv2.pdf?rlkey=uijytd83754bhunhfp1to2liq&dl=0)  with Clement Bohr and Frédéric Robert-Nicoud,  *Revise and Resubmit,<blue> Journal of International Economics</blue>*. 
 
 
 
