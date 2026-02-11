@@ -176,7 +176,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 6. Engel's Treadmill, with Clement Bohr and Emre Enes Yavuz.
 
-7. Effects of Climate Change on Capital and Labor Reallocation, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+7. The Effects of Climate Change on Labor Reallocation, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+
+8. Climate Change and the Spatial Reallocation of Capital, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
 
    
 
