@@ -192,7 +192,6 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
 
-[Idea 2nd year PhD class](https://mestieri.github.io/teaching)
 
 
 ## Data
