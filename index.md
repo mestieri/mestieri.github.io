@@ -164,21 +164,21 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
     
 ## Work in Progress 
 
-1. What Goods do Countries Trade?, with Danial Lashkari.
+1. Jobless Industrialization, with Laura Alfaro, Marcela Eslava, and Felipe Saenz.
 
-2. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
+2. Scale and Skill, with Diego Comin and Matthew Dey.
 
-3. Jobless Industrialization, with Laura Alfaro, Marcela Eslava, and Felipe Saenz.
+3. Industrialization without Innovation, with Paula Bustos, Juan Manuel Castro-Vincenzi, Joan Monras, and Jacopo Ponticelli.
 
-4. Scale and Skill, with Diego Comin and Matthew Dey.
+4. Engel's Treadmill, with Clement Bohr and Emre Enes Yavuz.
 
-5. Industrialization without Innovation, with Paula Bustos, Juan Manuel Castro-Vincenzi, Joan Monras, and Jacopo Ponticelli.
+5. The Effects of Climate Change on Labor Reallocation, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
 
-6. Engel's Treadmill, with Clement Bohr and Emre Enes Yavuz.
+6. Climate Change and the Spatial Reallocation of Capital, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+  
+7. What Goods do Countries Trade?, with Danial Lashkari.
 
-7. The Effects of Climate Change on Labor Reallocation, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
-
-8. Climate Change and the Spatial Reallocation of Capital, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+8. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
 
    
 
