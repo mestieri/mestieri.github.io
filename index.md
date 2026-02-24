@@ -20,7 +20,11 @@ body {
   margin: auto;
   line-height: 1.6;
 }
-
+/* spacing before section titles */
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+}
 
   /* Top profile block */
   .profile-header {
