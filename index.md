@@ -120,8 +120,12 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 7. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168). [Runner-up of the EEA Mine 2025 Best Paper Award](https://www.eeassoc.org/mine-best-paper-award). [Our Framework has been used in the IMF South Africa Country Report, 2026](www.imf.org/-/media/files/publications/cr/2026/english/1zafea2026002-source-pdf.pdf)
 
 8. [Equivalent Logit Choice Probabilities from Optimization and Randomization](https://www.dropbox.com/scl/fi/4tyd1pta9t6713aftt7lt/MN.pdf?rlkey=fb795fsvm05pedvjtbx5u2uog&dl=0) with Jordan Norris [CEPR WP](https://hub.cepr.org/civicrm/file?id=259050&eid=284717&fcs=a76157515a85f4a06591adc0d3a1e10997983ff03bfaa56da49378eb4907aad3_1768464197_168).
-   
 
+9. [Climate Change and the Spatial Reallocation of Capital](https://www.dropbox.com/scl/fi/ny8gg69t0esdzfpaoaaza/Climate_Spatial_Capital.pdf?rlkey=zvubdtjqoaltq2g9ihtqjyob8&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+
+10. [The Effects of Climate Change on Labor Reallocation](https://www.dropbox.com/scl/fi/xp877zstopoduj0dzxycz/Climate_Labor.pdf?rlkey=w88pjuwu01mvme1184un6towu&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+    
+  
    
 ## Submitted Papers or Under Revision
 
@@ -175,13 +179,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 4. Engel's Treadmill, with Clement Bohr and Emre Enes Yavuz.
 
-5. The Effects of Climate Change on Labor Reallocation, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+5. What Goods do Countries Trade?, with Danial Lashkari.
 
-6. Climate Change and the Spatial Reallocation of Capital, with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
-  
-7. What Goods do Countries Trade?, with Danial Lashkari.
-
-8. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
+6. Micro Assignment and Macro Elasticities, with Riccardo Bianchi-Vimercati.
 
    
 
