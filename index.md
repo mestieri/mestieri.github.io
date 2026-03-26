@@ -99,7 +99,8 @@ Bellaterra, 08193, Barcelona, Spain
 
   </div>
 </div>
-Consider contributing to the [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
+
+[Program for the 2026 Bellaterra Growth Workshop](https://www.dropbox.com/scl/fi/ypwnhuz4imxfuwdg8iw4k/BGW-2026-Program.pdf?rlkey=hhp0ljksipn2i1xjgao0zebl7&dl=0)
                                                                                  
 ## Working Papers
 
@@ -201,6 +202,8 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 [Dataset of Quarterly Industry-Level Labor Productivity Data for the US](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp.xlsx); Data [Documentation](https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp-release-notes.pdf)
 
+
+Consider contributing to the [YingHua He memorial fund for graduate fellowships](https://riceconnect.rice.edu/donation/yinghua-he-memorial)
 
 
 
