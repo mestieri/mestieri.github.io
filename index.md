@@ -99,8 +99,6 @@ Bellaterra, 08193, Barcelona, Spain
 
   </div>
 </div>
-
-[Program for the 2026 Bellaterra Growth Workshop](https://www.dropbox.com/scl/fi/ypwnhuz4imxfuwdg8iw4k/BGW-2026-Program.pdf?rlkey=hhp0ljksipn2i1xjgao0zebl7&dl=0)
                                                                                  
 ## Working Papers
 
@@ -112,19 +110,17 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. [Wealth Distribution and Human Capital: How Do Borrowing Constraints Shape Schooling Systems?](https://www.dropbox.com/s/w0fc7sthxh0mhtx/mestieri_wealthdistrib_humancapital.pdf?dl=0)
 
-4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/y5l2ym51sj576dvtwt5en/dgm_mar2025.pdf?rlkey=e4bj483w6nidv67zyrj5crjcc&dl=0) with Ruben Gaetani and Gustavo de Souza, [ChicagoFed WP](https://www.chicagofed.org/-/media/publications/working-papers/2024/wp2024-20.pdf?sc_lang=en).
+4. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
 
-5. [The Structural Transformation of Innovation](https://www.dropbox.com/scl/fi/v6hx2gn2g6g2hpmygllpk/CLM2.pdf?rlkey=0y9sjmiksgxm39w2pbep0zjq2&dl=0) with Diego Comin and Danial Lashkari.
-
-6. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf). [VoxEU Column](https://cepr.org/voxeu/columns/it-takes-village-create-idea-knowledge-spillovers-and-productivity-over-past-hundred)
+5. [Global Innovation and Productivity: Evidence from 100 years of World Patent Data](https://www.dropbox.com/scl/fi/3nbtp328lugkp82lrytbn/bmm.pdf?rlkey=yaw5hgq9eav4vo6c7gt74ieuv&dl=0). [Full Online Appendix](https://www.dropbox.com/s/223f712mupuij5v/bmm_oa.pdf?dl=0). File containing [Fields of Knowledge Classification of International Patent Codes](https://www.dropbox.com/s/sne8ac9t22pwcy3/Fields_of_knowledge.csv?dl=0). This work was cited in [Chapter 6 of the 2024 CEA Report](https://www.whitehouse.gov/wp-content/uploads/2024/03/ERP-2024-CHAPTER-6.pdf). [VoxEU Column](https://cepr.org/voxeu/columns/it-takes-village-create-idea-knowledge-spillovers-and-productivity-over-past-hundred)
  
-7. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168). [Runner-up of the EEA Mine 2025 Best Paper Award](https://www.eeassoc.org/mine-best-paper-award). [Our Framework has been used in the IMF South Africa Country Report, 2026](www.imf.org/-/media/files/publications/cr/2026/english/1zafea2026002-source-pdf.pdf)
+6. [End of Apartheid, Not of Inequality: The Slow Transition in a Segregated Economy](https://www.dropbox.com/scl/fi/4q79efmqe94pbkl3zq18p/MMS.pdf?rlkey=ertuj2kk3wxzl1ik0khz5dz2d&dl=0) with Kristina Manysheva and Johanna Schauer, [CEPR WP](https://hub.cepr.org/civicrm/file?id=241935&eid=256008&fcs=2eddbf108c3edd1775a9824651b70a6fb9ed9ae79cf68bfde242d61cda371469_1752890681_168). [Runner-up of the EEA Mine 2025 Best Paper Award](https://www.eeassoc.org/mine-best-paper-award). [Our Framework has been used in the IMF South Africa Country Report, 2026](www.imf.org/-/media/files/publications/cr/2026/english/1zafea2026002-source-pdf.pdf)
 
-8. [Equivalent Logit Choice Probabilities from Optimization and Randomization](https://www.dropbox.com/scl/fi/4tyd1pta9t6713aftt7lt/MN.pdf?rlkey=fb795fsvm05pedvjtbx5u2uog&dl=0) with Jordan Norris [CEPR WP](https://hub.cepr.org/civicrm/file?id=259050&eid=284717&fcs=a76157515a85f4a06591adc0d3a1e10997983ff03bfaa56da49378eb4907aad3_1768464197_168).
+7. [Equivalent Logit Choice Probabilities from Optimization and Randomization](https://www.dropbox.com/scl/fi/4tyd1pta9t6713aftt7lt/MN.pdf?rlkey=fb795fsvm05pedvjtbx5u2uog&dl=0) with Jordan Norris [CEPR WP](https://hub.cepr.org/civicrm/file?id=259050&eid=284717&fcs=a76157515a85f4a06591adc0d3a1e10997983ff03bfaa56da49378eb4907aad3_1768464197_168).
 
-9. [Climate Change and the Spatial Reallocation of Capital](https://www.dropbox.com/scl/fi/ny8gg69t0esdzfpaoaaza/Climate_Spatial_Capital.pdf?rlkey=zvubdtjqoaltq2g9ihtqjyob8&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+8. [Climate Change and the Spatial Reallocation of Capital](https://www.dropbox.com/scl/fi/ny8gg69t0esdzfpaoaaza/Climate_Spatial_Capital.pdf?rlkey=zvubdtjqoaltq2g9ihtqjyob8&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
 
-10. [The Effects of Climate Change on Labor Reallocation](https://www.dropbox.com/scl/fi/xp877zstopoduj0dzxycz/Climate_Labor.pdf?rlkey=w88pjuwu01mvme1184un6towu&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+9. [The Effects of Climate Change on Labor Reallocation](https://www.dropbox.com/scl/fi/xp877zstopoduj0dzxycz/Climate_Labor.pdf?rlkey=w88pjuwu01mvme1184un6towu&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
     
   
    
@@ -138,7 +134,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
     with Francisco Buera, Joseph Kaboski and Daniel O'Connor, 
     [online appendix](https://www.dropbox.com/scl/fi/g9fxctt7edatpbjxvptm4/bkmo_oa_july24.pdf?rlkey=re54p78yaiczlqq1ilzq8teu4&dl=0). *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
 
-3. [Engel’s Law Of The Land: Structural Change and The Rise of Spatial Disparities](https://www.dropbox.com/scl/fi/t7sime3p068ayols59bn0/EcoGeo-StructChange-HCDv2.pdf?rlkey=uijytd83754bhunhfp1to2liq&dl=0)  with Clement Bohr and Frédéric Robert-Nicoud,  *Revise and Resubmit,<blue> Journal of International Economics</blue>*. 
+3. [Engel’s Law Of The Land: Structural Change and The Rise of Spatial Disparities](https://www.dropbox.com/scl/fi/t7sime3p068ayols59bn0/EcoGeo-StructChange-HCDv2.pdf?rlkey=uijytd83754bhunhfp1to2liq&dl=0)  with Clement Bohr and Frédéric Robert-Nicoud,  *Revise and Resubmit,<blue> Journal of International Economics</blue>*.
+
+4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/sn2wfl0cbyagx8hikd3az/dgm_new.pdf?rlkey=1iq0ylkwducg3m0cb8fioy5cv&dl=0) with Ruben Gaetani and Gustavo de Souza.
 
 
 
