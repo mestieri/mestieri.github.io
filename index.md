@@ -118,9 +118,9 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 7. [Equivalent Logit Choice Probabilities from Optimization and Randomization](https://www.dropbox.com/scl/fi/4tyd1pta9t6713aftt7lt/MN.pdf?rlkey=fb795fsvm05pedvjtbx5u2uog&dl=0) with Jordan Norris [CEPR WP](https://hub.cepr.org/civicrm/file?id=259050&eid=284717&fcs=a76157515a85f4a06591adc0d3a1e10997983ff03bfaa56da49378eb4907aad3_1768464197_168).
 
-8. [Climate Change and the Spatial Reallocation of Capital](https://www.dropbox.com/scl/fi/ny8gg69t0esdzfpaoaaza/Climate_Spatial_Capital.pdf?rlkey=zvubdtjqoaltq2g9ihtqjyob8&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+8. [Climate Change and the Spatial Reallocation of Capital](https://www.dropbox.com/scl/fi/2yln3s3lgjytj7wqtgdzh/Brazil_Climate_Capital.pdf?rlkey=4hojlkpf5uqs58y85wbhi9koj&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
 
-9. [The Effects of Climate Change on Labor Reallocation](https://www.dropbox.com/scl/fi/xp877zstopoduj0dzxycz/Climate_Labor.pdf?rlkey=w88pjuwu01mvme1184un6towu&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
+9. [The Effects of Climate Change on Labor Reallocation](https://www.dropbox.com/scl/fi/zc0rm1srqxx0ulno75f9m/Brazil_Climate_ST.pdf?rlkey=dotk7locnrh5nqg28egzlrk7c&dl=0), with Christopher Albert, Paula Bustos, and Jacopo Ponticelli.
     
   
    
