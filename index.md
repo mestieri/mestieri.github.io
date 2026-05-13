@@ -190,6 +190,8 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 [Derivations for Nonhomothethic CES with Additional Results: Closed Form, Aggregation and Cobb Douglas Limit](https://www.dropbox.com/scl/fi/u6eyanwfdavc457wwv058/nhceshcdstepbystep.pdf?rlkey=2pyis9bn13zoyjchx7c30geh2&dl=0)
 
+[Guest Lecture at Northwestern 460, Nonhomothetic Preferences and Applications](https://www.dropbox.com/scl/fi/yfbhib0kpazn53oweugf8/460_2026_class.pdf?rlkey=mmkyom5mkmhh871tp83287m4n&dl=0)
+
 [Guest Lecture on Structural Change and Nonhomothetic CES at U Chicago Ec 376](https://www.dropbox.com/s/desc962vwmcdbat/structural_change_lecture.pdf?dl=0)
 
 [Sample Code to Estimate Nonhomothetic CES on Synthetic Data](https://www.dropbox.com/s/adzdfl0najc7jc5/estimation_nhces.zip?dl=0)
