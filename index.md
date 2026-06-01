@@ -126,8 +126,8 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
    
 ## Submitted Papers or Under Revision
 
-1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0) with Diego Comin and Ana Danieli,
-    [online appendix](https://www.dropbox.com/s/cu2hv6z8u9633rb/cdm_oa.pdf?dl=0), first version: July 2020, last update: Nov. 2022. *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
+1. [Income-Driven Labor-Market Polarization](https://www.dropbox.com/scl/fi/p1ldxux66gdrieup4h5cw/cdm_rev.pdf?rlkey=933i7fr3f2em680aaegbryjxp&dl=0) with Diego Comin and Ana Danieli, [2022 WP version](https://www.dropbox.com/s/4c3ow4flycqnymd/cdm.pdf?dl=0)
+    [online appendix 2022 version](https://www.dropbox.com/s/cu2hv6z8u9633rb/cdm_oa.pdf?dl=0), first version: July 2020, last update: May 2026. *Revise and Resubmit,<blue> Review of Economic Studies</blue>*.
     
 
 2. [The Stable Transformation Path](https://www.dropbox.com/scl/fi/42sxsm4ahgxeh9wgcwx8x/bkmo_july24.pdf?rlkey=3p22096kggjzi6zg2mopvgoj6&dl=0)
