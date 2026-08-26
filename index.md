@@ -136,7 +136,7 @@ for Nonhomothetic CES Preferences](https://www.dropbox.com/scl/fi/obu49nw8d74wye
 
 3. [Engel’s Law Of The Land: Structural Change and The Rise of Spatial Disparities](https://www.dropbox.com/scl/fi/t7sime3p068ayols59bn0/EcoGeo-StructChange-HCDv2.pdf?rlkey=uijytd83754bhunhfp1to2liq&dl=0)  with Clement Bohr and Frédéric Robert-Nicoud,  *Revise and Resubmit,<blue> Journal of International Economics</blue>*.
 
-4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/sn2wfl0cbyagx8hikd3az/dgm_new.pdf?rlkey=1iq0ylkwducg3m0cb8fioy5cv&dl=0) with Ruben Gaetani and Gustavo de Souza.
+4. [More Trade, Less Diffusion: Technology Transfers and the Dynamic Effects of Import Liberalization](https://www.dropbox.com/scl/fi/wtygmorv9cqyacdk134l7/dgm_new2.pdf?rlkey=mn1774z53x9ovskczce3qku8z&dl=0) with Ruben Gaetani and Gustavo de Souza.
 
 
 
